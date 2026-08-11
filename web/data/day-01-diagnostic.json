@@ -1,0 +1,247 @@
+{
+  "day": 1,
+  "title": "Diagnostic Sản phụ khoa - 30 câu trộn",
+  "source_note": "Bộ câu hỏi gốc được tạo theo các chủ đề trong TN4000 và kế hoạch học, không sao chép nguyên văn từ tài liệu nguồn.",
+  "questions": [
+    {
+      "id": "D01-Q01",
+      "topic": "Chu kỳ kinh nguyệt",
+      "question": "Trong chu kỳ kinh nguyệt bình thường, LH surge có vai trò trực tiếp nhất trong sự kiện nào?",
+      "choices": ["Hành kinh", "Rụng trứng", "Tăng sinh nội mạc tử cung", "Thoái hóa hoàng thể"],
+      "answer": 1,
+      "explanation": "LH surge kích hoạt rụng trứng. Estrogen liên quan pha tăng sinh, progesterone liên quan pha chế tiết."
+    },
+    {
+      "id": "D01-Q02",
+      "topic": "AUB",
+      "question": "Bước đầu tiên không được quên ở phụ nữ tuổi sinh sản đến khám vì xuất huyết tử cung bất thường là gì?",
+      "choices": ["Sinh thiết nội mạc tử cung ngay", "Loại trừ thai", "Cho thuốc tránh thai phối hợp", "Chụp MRI vùng chậu"],
+      "answer": 1,
+      "explanation": "Ở tuổi sinh sản, luôn phải loại trừ thai và biến chứng thai trước khi kết luận AUB do nguyên nhân phụ khoa khác."
+    },
+    {
+      "id": "D01-Q03",
+      "topic": "AUB",
+      "question": "Trong PALM-COEIN, nhóm nào là nguyên nhân cấu trúc?",
+      "choices": ["Coagulopathy", "Ovulatory dysfunction", "Leiomyoma", "Iatrogenic"],
+      "answer": 2,
+      "explanation": "PALM là nhóm cấu trúc: Polyp, Adenomyosis, Leiomyoma, Malignancy/hyperplasia."
+    },
+    {
+      "id": "D01-Q04",
+      "topic": "Thai kỳ",
+      "question": "Dấu hiệu nào có giá trị xác định thai chắc chắn nhất?",
+      "choices": ["Buồn nôn buổi sáng", "Trễ kinh", "Thấy tim thai hoặc túi thai trên siêu âm phù hợp", "Căng vú"],
+      "answer": 2,
+      "explanation": "Triệu chứng như trễ kinh, buồn nôn chỉ gợi ý. Bằng chứng siêu âm/tim thai phù hợp có giá trị xác định hơn."
+    },
+    {
+      "id": "D01-Q05",
+      "topic": "Tuổi thai",
+      "question": "Công cụ thường chính xác nhất để ước tính tuổi thai sớm là gì?",
+      "choices": ["Chiều cao tử cung", "Siêu âm tam cá nguyệt 1", "Cân nặng mẹ", "Cảm nhận thai máy"],
+      "answer": 1,
+      "explanation": "Siêu âm tam cá nguyệt 1 thường chính xác nhất để định tuổi thai."
+    },
+    {
+      "id": "D01-Q06",
+      "topic": "Chuyển dạ",
+      "question": "Biểu đồ chuyển dạ chủ yếu giúp theo dõi điều gì?",
+      "choices": ["Tiến triển chuyển dạ và tình trạng mẹ-thai", "Nồng độ beta-hCG", "Tuổi thai chính xác", "Chức năng hoàng thể"],
+      "answer": 0,
+      "explanation": "Biểu đồ chuyển dạ theo dõi độ mở cổ tử cung, cơn gò, tim thai, tình trạng mẹ và giúp phát hiện chuyển dạ bất thường."
+    },
+    {
+      "id": "D01-Q07",
+      "topic": "Ngôi thai",
+      "question": "Khái niệm 'ngôi' mô tả điều gì?",
+      "choices": ["Tương quan lưng thai với bên mẹ", "Phần thai trình diện trước eo trên", "Mức lọt của đầu thai", "Tư thế cổ tử cung"],
+      "answer": 1,
+      "explanation": "Ngôi là phần thai trình diện trước eo trên khung chậu mẹ, ví dụ ngôi đầu, ngôi mông."
+    },
+    {
+      "id": "D01-Q08",
+      "topic": "Ra huyết đầu thai kỳ",
+      "question": "Tam chứng kinh điển gợi ý thai ngoài tử cung gồm gì?",
+      "choices": ["Sốt, đau hạ vị, khí hư", "Trễ kinh, đau bụng, ra huyết âm đạo", "Phù, tăng huyết áp, protein niệu", "Đau đầu, nhìn mờ, co giật"],
+      "answer": 1,
+      "explanation": "Trễ kinh, đau bụng và ra huyết âm đạo là tam chứng gợi ý thai ngoài tử cung, nhưng biểu hiện có thể không đầy đủ."
+    },
+    {
+      "id": "D01-Q09",
+      "topic": "Thai ngoài tử cung",
+      "question": "Dấu hiệu nào khiến thai ngoài tử cung cần xử trí ngoại khoa/cấp cứu hơn là theo dõi đơn thuần?",
+      "choices": ["Bệnh nhân huyết động không ổn định", "Không đau bụng", "Beta-hCG rất thấp và giảm", "Siêu âm chưa thấy túi thai nhưng bệnh nhân ổn định"],
+      "answer": 0,
+      "explanation": "Huyết động không ổn định gợi ý vỡ/chảy máu trong ổ bụng, cần xử trí cấp cứu."
+    },
+    {
+      "id": "D01-Q10",
+      "topic": "Thai trứng",
+      "question": "Sau điều trị thai trứng, xét nghiệm nào thường được dùng để theo dõi bệnh tồn tại?",
+      "choices": ["CA-125", "Beta-hCG", "AFP", "Progesterone"],
+      "answer": 1,
+      "explanation": "Beta-hCG được theo dõi sau thai trứng để phát hiện bệnh nguyên bào nuôi tồn tại."
+    },
+    {
+      "id": "D01-Q11",
+      "topic": "Tiền sản giật",
+      "question": "Bộ đôi nào phù hợp nhất với tiền sản giật?",
+      "choices": ["Sốt và khí hư hôi", "Tăng huyết áp sau 20 tuần và protein niệu hoặc tổn thương cơ quan đích", "Đau hố chậu phải và sốt", "Ra huyết không đau trước 20 tuần"],
+      "answer": 1,
+      "explanation": "Tiền sản giật thường là tăng huyết áp sau 20 tuần kèm protein niệu hoặc dấu hiệu tổn thương cơ quan đích."
+    },
+    {
+      "id": "D01-Q12",
+      "topic": "Sản giật",
+      "question": "Thuốc quan trọng nhất để dự phòng/điều trị co giật trong tiền sản giật nặng/sản giật là gì?",
+      "choices": ["Oxytocin", "Magnesium sulfate", "Methotrexate", "Metformin"],
+      "answer": 1,
+      "explanation": "Magnesium sulfate là thuốc chính để dự phòng và điều trị co giật trong tiền sản giật nặng/sản giật."
+    },
+    {
+      "id": "D01-Q13",
+      "topic": "Nhau tiền đạo",
+      "question": "Kiểu ra huyết nào gợi ý nhau tiền đạo nhất?",
+      "choices": ["Ra huyết âm đạo đỏ tươi, không đau ở nửa sau thai kỳ", "Ra huyết kèm tử cung đau cứng", "Ra huyết sau giao hợp ở tuổi mãn kinh", "Ra huyết kèm sốt và khí hư"],
+      "answer": 0,
+      "explanation": "Nhau tiền đạo thường gây ra huyết đỏ tươi, không đau trong nửa sau thai kỳ."
+    },
+    {
+      "id": "D01-Q14",
+      "topic": "Nhau bong non",
+      "question": "Dấu hiệu nào gợi ý nhau bong non hơn nhau tiền đạo?",
+      "choices": ["Ra huyết không đau", "Tử cung đau, tăng trương lực, có thể suy thai", "Không có cơn gò", "Siêu âm nhau bám thấp"],
+      "answer": 1,
+      "explanation": "Nhau bong non thường đau bụng, tử cung tăng trương lực, có thể suy thai và rối loạn đông máu."
+    },
+    {
+      "id": "D01-Q15",
+      "topic": "Băng huyết sau sinh",
+      "question": "Nguyên nhân thường gặp nhất của băng huyết sau sinh sớm là gì?",
+      "choices": ["Đờ tử cung", "Ung thư cổ tử cung", "Lạc nội mạc tử cung", "Viêm âm đạo"],
+      "answer": 0,
+      "explanation": "Đờ tử cung là nguyên nhân thường gặp nhất của băng huyết sau sinh sớm."
+    },
+    {
+      "id": "D01-Q16",
+      "topic": "Băng huyết sau sinh",
+      "question": "4T trong băng huyết sau sinh gồm nhóm nào?",
+      "choices": ["Tone, Trauma, Tissue, Thrombin", "Time, Temperature, Tumor, Toxin", "Tube, Torsion, Trauma, Thrombin", "Tone, Thyroid, Tissue, Toxin"],
+      "answer": 0,
+      "explanation": "4T là Tone, Trauma, Tissue, Thrombin: đờ tử cung, sang chấn, sót mô, rối loạn đông máu."
+    },
+    {
+      "id": "D01-Q17",
+      "topic": "Đái tháo đường thai kỳ",
+      "question": "Đái tháo đường thai kỳ làm tăng nguy cơ nào cho thai/sơ sinh?",
+      "choices": ["Thai to và hạ đường huyết sơ sinh", "Thai ngoài tử cung", "U xơ tử cung", "Lạc nội mạc tử cung"],
+      "answer": 0,
+      "explanation": "Đái tháo đường thai kỳ liên quan thai to, sang chấn sinh, hạ đường huyết sơ sinh và nhiều nguy cơ khác."
+    },
+    {
+      "id": "D01-Q18",
+      "topic": "Ối vỡ non",
+      "question": "Nguy cơ quan trọng khi ối vỡ non là gì?",
+      "choices": ["Nhiễm trùng ối và sinh non", "Ung thư nội mạc tử cung", "Sùi mào gà", "Mãn kinh sớm"],
+      "answer": 0,
+      "explanation": "Ối vỡ non làm tăng nguy cơ nhiễm trùng ối, sinh non và biến chứng cho mẹ-thai."
+    },
+    {
+      "id": "D01-Q19",
+      "topic": "Khí hư",
+      "question": "Khí hư loãng, mùi tanh, pH âm đạo tăng thường gợi ý bệnh nào?",
+      "choices": ["Bacterial vaginosis", "Thai ngoài tử cung", "Tiền sản giật", "Nhau bong non"],
+      "answer": 0,
+      "explanation": "Bacterial vaginosis thường gây khí hư mùi tanh, pH tăng."
+    },
+    {
+      "id": "D01-Q20",
+      "topic": "PID",
+      "question": "Biến chứng lâu dài quan trọng của viêm vùng chậu là gì?",
+      "choices": ["Vô sinh do tổn thương vòi trứng", "Tiền sản giật", "Đờ tử cung", "Thai trứng"],
+      "answer": 0,
+      "explanation": "PID có thể gây dính/tổn thương vòi trứng, dẫn tới vô sinh và tăng nguy cơ thai ngoài tử cung."
+    },
+    {
+      "id": "D01-Q21",
+      "topic": "U xơ tử cung",
+      "question": "Triệu chứng thường gặp của u xơ tử cung là gì?",
+      "choices": ["Cường kinh hoặc rong kinh", "Co giật sau 20 tuần", "Ra huyết không đau nửa sau thai kỳ", "Khí hư mùi tanh đơn thuần"],
+      "answer": 0,
+      "explanation": "U xơ tử cung thường gây cường kinh/rong kinh, đau tức vùng chậu, triệu chứng chèn ép hoặc vô sinh tùy vị trí."
+    },
+    {
+      "id": "D01-Q22",
+      "topic": "Lạc nội mạc tử cung",
+      "question": "Triệu chứng nào gợi ý lạc nội mạc tử cung?",
+      "choices": ["Đau bụng kinh tiến triển và đau khi giao hợp", "Tăng huyết áp và protein niệu", "Ra huyết không đau ở nửa sau thai kỳ", "Sốt hậu sản ngày thứ nhất"],
+      "answer": 0,
+      "explanation": "Lạc nội mạc tử cung thường gây thống kinh tiến triển, đau vùng chậu mạn, đau khi giao hợp và có thể vô sinh."
+    },
+    {
+      "id": "D01-Q23",
+      "topic": "U buồng trứng",
+      "question": "Triệu chứng đau bụng cấp dữ dội kèm khối phần phụ khiến cần nghĩ nhiều tới gì?",
+      "choices": ["Xoắn buồng trứng", "Mãn kinh", "Sinh lý rụng trứng bình thường luôn luôn", "AUB do rối loạn đông máu"],
+      "answer": 0,
+      "explanation": "Xoắn buồng trứng là cấp cứu phụ khoa, thường đau bụng cấp, có thể nôn, có khối phần phụ."
+    },
+    {
+      "id": "D01-Q24",
+      "topic": "Tầm soát cổ tử cung",
+      "question": "Yếu tố nhiễm trùng liên quan chặt nhất với ung thư cổ tử cung là gì?",
+      "choices": ["HPV nguy cơ cao", "Candida", "Trichomonas", "Vi khuẩn chí âm đạo bình thường"],
+      "answer": 0,
+      "explanation": "HPV nguy cơ cao, đặc biệt type 16/18, liên quan mạnh với ung thư cổ tử cung."
+    },
+    {
+      "id": "D01-Q25",
+      "topic": "Ung thư nội mạc tử cung",
+      "question": "Dấu hiệu đỏ kinh điển của ung thư nội mạc tử cung là gì?",
+      "choices": ["Ra huyết âm đạo sau mãn kinh", "Buồn nôn buổi sáng", "Ra huyết không đau nửa sau thai kỳ", "Đau khi rụng trứng đơn thuần"],
+      "answer": 0,
+      "explanation": "Ra huyết sau mãn kinh luôn cần đánh giá ung thư nội mạc tử cung cho tới khi loại trừ."
+    },
+    {
+      "id": "D01-Q26",
+      "topic": "Tránh thai",
+      "question": "Trường hợp nào là chống chỉ định quan trọng của thuốc tránh thai phối hợp estrogen-progestin?",
+      "choices": ["Tiền sử huyết khối tĩnh mạch sâu", "Đau bụng kinh nhẹ", "Mong muốn tránh thai tạm thời", "Chu kỳ kinh đều"],
+      "answer": 0,
+      "explanation": "Estrogen làm tăng nguy cơ huyết khối, nên tiền sử huyết khối là chống chỉ định quan trọng."
+    },
+    {
+      "id": "D01-Q27",
+      "topic": "PCOS",
+      "question": "Biểu hiện nào thường gặp trong PCOS?",
+      "choices": ["Rối loạn phóng noãn và cường androgen", "Protein niệu sau 20 tuần", "Ra huyết đỏ tươi không đau nửa sau thai kỳ", "Đờ tử cung sau sinh"],
+      "answer": 0,
+      "explanation": "PCOS thường có rối loạn phóng noãn, cường androgen lâm sàng/cận lâm sàng và hình ảnh buồng trứng đa nang tùy tiêu chuẩn."
+    },
+    {
+      "id": "D01-Q28",
+      "topic": "Mãn kinh",
+      "question": "Mãn kinh được hiểu là mất kinh tự nhiên kéo dài bao lâu sau khi loại trừ nguyên nhân khác?",
+      "choices": ["3 tháng", "6 tháng", "12 tháng", "24 tháng"],
+      "answer": 2,
+      "explanation": "Mãn kinh thường được định nghĩa là vô kinh 12 tháng liên tiếp do suy giảm chức năng buồng trứng, sau khi loại trừ nguyên nhân khác."
+    },
+    {
+      "id": "D01-Q29",
+      "topic": "Giải phẫu",
+      "question": "Trong phẫu thuật phụ khoa, niệu quản có liên quan quan trọng với cấu trúc nào gần cổ tử cung?",
+      "choices": ["Động mạch tử cung", "Dây chằng tròn ở thành bụng", "Tĩnh mạch hiển lớn", "Cơ hoành"],
+      "answer": 0,
+      "explanation": "Niệu quản đi dưới động mạch tử cung gần cổ tử cung, là mốc dễ tổn thương trong phẫu thuật."
+    },
+    {
+      "id": "D01-Q30",
+      "topic": "Kỹ năng làm bài",
+      "question": "Khi gặp câu hỏi ca lâm sàng cấp cứu, chiến lược nào nên dùng trước?",
+      "choices": ["Tìm tình trạng huyết động và dấu hiệu nguy hiểm", "Đọc đáp án dài nhất trước", "Bỏ qua tuổi thai", "Chỉ nhớ tên thuốc"],
+      "answer": 0,
+      "explanation": "Với cấp cứu, cần nhận diện ổn định/không ổn định và dấu hiệu nguy hiểm trước khi chọn xét nghiệm hoặc điều trị."
+    }
+  ]
+}

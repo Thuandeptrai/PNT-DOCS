@@ -26,4 +26,12 @@ Bẫy cần tránh:
 ## Bài tập trắc nghiệm
 Làm 30 câu diagnostic trộn từ TN4000; ghi mọi câu sai hoặc phân vân.
 
+Nếu dùng web tương tác, mở:
+
+`http://127.0.0.1:8088/web/`
+
+Bộ 30 câu nằm ở:
+
+`web/data/day-01-diagnostic.json`
+
 

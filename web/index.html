@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PNTU SPK Study</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>PNTU Thạc sĩ Sản phụ khoa</h1>
+      <p>Kế hoạch học từng ngày và quiz diagnostic</p>
+    </div>
+    <label class="day-picker">
+      <span>Ngày học</span>
+      <select id="daySelect" aria-label="Chọn ngày học"></select>
+    </label>
+  </header>
+
+  <main class="layout">
+    <section class="panel day-panel" aria-labelledby="dayTitle">
+      <div class="section-head">
+        <div>
+          <p id="dayDate" class="eyebrow"></p>
+          <h2 id="dayTitle"></h2>
+        </div>
+        <span id="progressBadge" class="badge">Chưa làm quiz</span>
+      </div>
+
+      <div class="grid">
+        <article>
+          <h3>Mục tiêu</h3>
+          <ul id="learnList"></ul>
+        </article>
+        <article>
+          <h3>Tài liệu cần đọc</h3>
+          <ul id="docList"></ul>
+        </article>
+      </div>
+
+      <article>
+        <h3>Bài tập chính</h3>
+        <p id="drillText"></p>
+      </article>
+
+      <article>
+        <h3>Kết quả cần tạo</h3>
+        <ul id="outputList"></ul>
+      </article>
+    </section>
+
+    <section class="panel" aria-labelledby="questionTitle">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Câu hỏi trong ngày</p>
+          <h2 id="questionTitle">Câu hỏi tự luận/ngắn</h2>
+        </div>
+      </div>
+      <ol id="dailyQuestions" class="question-list"></ol>
+    </section>
+
+    <section id="quizPanel" class="panel quiz-panel" aria-labelledby="quizTitle">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Ngày 1</p>
+          <h2 id="quizTitle">Diagnostic 30 câu trộn</h2>
+        </div>
+        <button id="resetQuiz" class="ghost-button" type="button">Làm lại</button>
+      </div>
+      <div id="quizMeta" class="quiz-meta"></div>
+      <div id="quizQuestions"></div>
+      <div class="quiz-actions">
+        <button id="submitQuiz" type="button">Chấm điểm</button>
+        <div id="scoreBox" class="score-box" aria-live="polite"></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>

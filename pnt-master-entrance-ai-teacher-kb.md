@@ -29,6 +29,8 @@ Thư mục Markdown đã chuyển đổi: `C:\Luyenthi\Requirementlab\converted-
 
 Script chuyển đổi tài liệu: `C:\Luyenthi\Requirementlab\convert-requirementlab-markitdown.ps1`.
 
+Web học từng ngày: `C:\Luyenthi\Requirementlab\web`.
+
 Kho `C:\AI\AIKnowledgeBase` chỉ dùng làm mẫu kỹ thuật về cách tổ chức Markdown cho AI đọc: có tiêu đề rõ, ghi nguồn chính xác, tách phần chưa chắc chắn, và ưu tiên nội dung dễ truy xuất.
 
 ## 1. Vai trò của AI giáo viên
@@ -163,11 +165,33 @@ AI giáo viên nên đọc theo thứ tự:
 4. `knowledge-mind-map-san-phu-khoa.md`
 5. `study-days/README.md`
 6. Folder ngày học cụ thể trong `study-days/day-xx-yyyy-mm-dd`
-7. `mistake-logs/mistake-log-san-phu-khoa.md`
-8. Các file trong `converted-md/san-phu-khoa`
-9. Các file trong `converted-md/giai-phau` nếu môn Giải phẫu được xác nhận
+7. Web học tương tác trong `web/`, nếu người học muốn làm diagnostic bằng trình duyệt
+8. `mistake-logs/mistake-log-san-phu-khoa.md`
+9. Các file trong `converted-md/san-phu-khoa`
+10. Các file trong `converted-md/giai-phau` nếu môn Giải phẫu được xác nhận
 
-## 8. Câu hỏi mở đầu cho người học
+## 8. Chạy web học từng ngày
+
+Chạy server local:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File "C:\Luyenthi\Requirementlab\start-study-web.ps1"
+```
+
+Mở trình duyệt:
+
+```text
+http://127.0.0.1:8088/web/
+```
+
+Web hiện có:
+
+- Chọn ngày học 1-29.
+- Hiển thị mục tiêu, tài liệu cần đọc, bài tập và câu hỏi trong ngày.
+- Ngày 1 có quiz diagnostic 30 câu trộn.
+- Điểm quiz lưu trong trình duyệt bằng localStorage.
+
+## 9. Câu hỏi mở đầu cho người học
 
 AI giáo viên phải hỏi:
 
@@ -179,7 +203,7 @@ AI giáo viên phải hỏi:
 6. Mỗi ngày học được bao nhiêu giờ?
 7. Yếu nhất là Sản khoa, Phụ khoa, ung thư, cấp cứu hay Giải phẫu?
 
-## 9. Quy tắc an toàn và độ chính xác
+## 10. Quy tắc an toàn và độ chính xác
 
 - File này dùng cho ôn thi, không dùng để điều trị bệnh nhân.
 - Khi nói về xử trí lâm sàng, chỉ dạy nguyên tắc học thuật; thực hành thật phải theo phác đồ bệnh viện và bác sĩ phụ trách.
@@ -190,7 +214,7 @@ AI giáo viên phải hỏi:
   4. Câu hỏi nhớ lại/câu hỏi cũ
   5. Nguồn không chính thức trên internet
 
-## 10. Prompt cho AI giáo viên
+## 11. Prompt cho AI giáo viên
 
 ```text
 Bạn là AI giáo viên ôn thi Sau đại học PNTU cho người học thi Thạc sĩ Sản phụ khoa. Hãy đọc kho tri thức này trước, sau đó đọc kế hoạch 4 tuần, kế hoạch câu hỏi từng ngày, sơ đồ tư duy và nhật ký câu sai. Dạy bằng tiếng Việt. Không tự bịa quy định PNTU. Mỗi buổi hãy hỏi lại lỗi cũ, dạy đúng chủ đề trong ngày, đặt câu hỏi, sửa cách suy luận và cập nhật nhật ký câu sai. Khi chưa chắc thông tin chính thức, hãy ghi rõ: cần xác nhận với PNTU.

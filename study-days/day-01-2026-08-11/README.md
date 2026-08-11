@@ -14,6 +14,14 @@
 ## Bài tập chính
 Làm 30 câu diagnostic trộn từ TN4000; ghi mọi câu sai hoặc phân vân.
 
+Có thể làm quiz tương tác tại:
+
+`http://127.0.0.1:8088/web/`
+
+Nguồn dữ liệu quiz:
+
+`web/data/day-01-diagnostic.json`
+
 ## Kết quả cần tạo
 - Tạo 10 dòng đầu tiên trong nhật ký câu sai
 - Đánh dấu nhánh yếu trong mind map
