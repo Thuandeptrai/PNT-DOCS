@@ -1,0 +1,31 @@
+{
+  "day": 16,
+  "date": "2026-08-26",
+  "title": "AUB, u xơ, lạc nội mạc tử cung",
+  "learn": [
+    "AUB",
+    "U xơ tử cung",
+    "Lạc nội mạc tử cung",
+    "Adenomyosis"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK cơ bản _1_.md",
+    "converted-md/san-phu-khoa/SPK Bệnh _1_.md"
+  ],
+  "questions": [
+    "Nhắc lại PALM-COEIN.",
+    "Triệu chứng gợi ý u xơ tử cung là gì?",
+    "U xơ gây biến chứng gì?",
+    "Cận lâm sàng đánh giá u xơ là gì?",
+    "Lạc nội mạc tử cung là gì?",
+    "Triệu chứng gợi ý lạc nội mạc tử cung là gì?",
+    "Adenomyosis khác lạc nội mạc tử cung thế nào?",
+    "Nguyên tắc điều trị lạc nội mạc tử cung là gì?",
+    "Khi nào AUB gợi ý ác tính?",
+    "Tuổi bệnh nhân làm thay đổi tiếp cận AUB thế nào?"
+  ],
+  "drill": "40 câu về AUB và phụ khoa lành tính.",
+  "output": [
+    "Bảng u xơ vs lạc nội mạc vs adenomyosis"
+  ]
+}

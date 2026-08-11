@@ -1,0 +1,27 @@
+{
+  "day": 13,
+  "date": "2026-08-23",
+  "title": "Ngày sửa lỗi 2 - Thuật toán cấp cứu",
+  "learn": [
+    "Sửa lỗi cấp cứu sản khoa",
+    "Thuộc bước xử trí đầu tiên"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK Bệnh _1_.md",
+    "converted-md/san-phu-khoa/sản ck1 pnt 2026.md"
+  ],
+  "questions": [
+    "Bước đầu trong băng huyết sau sinh là gì?",
+    "4T của băng huyết sau sinh là gì?",
+    "Bước đầu trong sản giật là gì?",
+    "Bước đầu trong thai ngoài tử cung không ổn định là gì?",
+    "Bước đầu khi nghi nhau tiền đạo ra huyết là gì?",
+    "Bước đầu trong kẹt vai là gì?",
+    "Bước đầu khi nghi nhiễm trùng là gì?",
+    "Cấp cứu nào cần gọi hỗ trợ ngay?"
+  ],
+  "drill": "20 câu lặp lại từ lỗi thi thử 2.",
+  "output": [
+    "Tờ thuật toán cấp cứu sản khoa"
+  ]
+}

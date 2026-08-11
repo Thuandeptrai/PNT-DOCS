@@ -1,0 +1,32 @@
+{
+  "day": 11,
+  "date": "2026-08-21",
+  "title": "Xuất huyết nửa sau thai kỳ và sinh non",
+  "learn": [
+    "Nhau tiền đạo",
+    "Nhau bong non",
+    "Ối vỡ non",
+    "Sinh non"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK Bệnh _1_.md",
+    "converted-md/san-phu-khoa/Sản Huế.md",
+    "converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md"
+  ],
+  "questions": [
+    "So sánh nhau tiền đạo và nhau bong non.",
+    "Bệnh nào thường ra huyết không đau?",
+    "Bệnh nào thường đau bụng/tăng trương lực tử cung?",
+    "Khám nào cần tránh nếu nghi nhau tiền đạo?",
+    "Siêu âm xác nhận nhau tiền đạo thế nào?",
+    "Nguy cơ mẹ của nhau bong non là gì?",
+    "Định nghĩa PROM và PPROM.",
+    "Nguy cơ của PPROM là gì?",
+    "Dấu hiệu sinh non là gì?",
+    "Ưu tiên xử trí trong sinh non là gì?"
+  ],
+  "drill": "40 câu về APH, PPROM và sinh non.",
+  "output": [
+    "Bảng nhau tiền đạo vs nhau bong non"
+  ]
+}

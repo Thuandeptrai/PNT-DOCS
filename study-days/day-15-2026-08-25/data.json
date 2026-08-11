@@ -1,0 +1,33 @@
+{
+  "day": 15,
+  "date": "2026-08-25",
+  "title": "Khí hư bất thường và viêm vùng chậu",
+  "learn": [
+    "Khí hư bất thường",
+    "Viêm âm đạo",
+    "Viêm cổ tử cung",
+    "Viêm vùng chậu",
+    "STI"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK cơ bản _1_.md",
+    "converted-md/san-phu-khoa/SPK Bệnh _1_.md",
+    "converted-md/san-phu-khoa/sản ck1 pnt 2026.md"
+  ],
+  "questions": [
+    "Cần hỏi bệnh sử gì khi khí hư bất thường?",
+    "So sánh nấm Candida, BV và Trichomonas.",
+    "Dấu hiệu nào gợi ý viêm cổ tử cung?",
+    "Dấu hiệu nào gợi ý PID?",
+    "Tiêu chuẩn chẩn đoán PID là gì?",
+    "Biến chứng PID là gì?",
+    "STI ảnh hưởng sinh sản thế nào?",
+    "Nguyên tắc điều trị bạn tình là gì?",
+    "Dấu hiệu herpes sinh dục là gì?",
+    "Sùi mào gà là gì?"
+  ],
+  "drill": "40 câu về nhiễm trùng và STI.",
+  "output": [
+    "Bảng phân biệt khí hư"
+  ]
+}

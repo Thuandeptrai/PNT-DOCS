@@ -1,0 +1,30 @@
+{
+  "day": 26,
+  "date": "2026-09-05",
+  "title": "Ôn Sản khoa trọng điểm",
+  "learn": [
+    "Chỉ ôn Sản khoa high-yield",
+    "Không đọc lan man"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/Sản Huế.md",
+    "converted-md/san-phu-khoa/SPK Bệnh _1_.md",
+    "converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md"
+  ],
+  "questions": [
+    "Trình bày sinh lý thai kỳ trong 5 phút.",
+    "Trình bày các giai đoạn chuyển dạ.",
+    "Giải thích biểu đồ chuyển dạ.",
+    "Trình bày chẩn đoán phân biệt ra huyết đầu thai kỳ.",
+    "Trình bày phân loại tăng huyết áp thai kỳ.",
+    "Trình bày nguy cơ đái tháo đường thai kỳ.",
+    "Trình bày tiếp cận thai chậm tăng trưởng.",
+    "Trình bày chẩn đoán phân biệt APH.",
+    "Trình bày xử trí băng huyết sau sinh.",
+    "Trình bày đánh giá nhiễm trùng hậu sản."
+  ],
+  "drill": "80 câu Sản khoa trọng điểm.",
+  "output": [
+    "Tờ ôn Sản khoa cuối cùng"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "day": 14,
+  "date": "2026-08-24",
+  "title": "Băng huyết sau sinh và nhiễm trùng hậu sản",
+  "learn": [
+    "Băng huyết sau sinh",
+    "Nhiễm trùng hậu sản",
+    "Hậu sản bình thường",
+    "Cho con bú và tránh thai sau sinh"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK Bệnh _1_.md",
+    "converted-md/san-phu-khoa/Sản Huế.md"
+  ],
+  "questions": [
+    "Định nghĩa băng huyết sau sinh.",
+    "4T là gì?",
+    "Đờ tử cung là gì?",
+    "Thuốc co hồi tử cung thường dùng là gì?",
+    "Nếu xoa đáy tử cung vẫn chảy máu thì kiểm tra gì?",
+    "Dấu hiệu nhiễm trùng hậu sản là gì?",
+    "Nguồn sốt hậu sản thường gặp là gì?",
+    "Đánh giá sản dịch hôi thế nào?",
+    "Dấu hiệu nguy hiểm sau sinh là gì?",
+    "Tránh thai sau sinh phù hợp gồm gì?"
+  ],
+  "drill": "30 câu về hậu sản.",
+  "output": [
+    "Tờ ôn băng huyết sau sinh"
+  ]
+}

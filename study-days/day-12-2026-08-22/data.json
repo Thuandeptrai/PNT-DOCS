@@ -1,0 +1,25 @@
+{
+  "day": 12,
+  "date": "2026-08-22",
+  "title": "Thi thử ngắn 2 - Cấp cứu sản khoa",
+  "learn": [
+    "Không học mới",
+    "Luyện áp dụng có bấm giờ"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md",
+    "converted-md/san-phu-khoa/sản ck1 pnt 2026.md"
+  ],
+  "questions": [
+    "Làm 100 câu tập trung cấp cứu sản khoa.",
+    "Câu nào là câu đoán?",
+    "Giải thích nhau tiền đạo vs nhau bong non từ trí nhớ.",
+    "Giải thích dấu hiệu nặng của tiền sản giật từ trí nhớ.",
+    "Giải thích xử trí thai ngoài tử cung từ trí nhớ."
+  ],
+  "drill": "100 câu có bấm giờ về cấp cứu sản khoa.",
+  "output": [
+    "Bảng sửa thi thử 2",
+    "Flashcard cấp cứu"
+  ]
+}

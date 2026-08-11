@@ -1,0 +1,27 @@
+{
+  "day": 20,
+  "date": "2026-08-30",
+  "title": "Ngày sửa lỗi 3",
+  "learn": [
+    "Sửa 3 nhánh yếu nhất từ thi thử 3",
+    "Phân loại lỗi kiến thức, đọc đề, xử trí"
+  ],
+  "docs": [
+    "Tài liệu tương ứng với chủ đề sai nhiều nhất"
+  ],
+  "questions": [
+    "Nhánh nào sai nhiều nhất?",
+    "Sai do thiếu kiến thức, hiểu sai hay đọc ẩu?",
+    "Định nghĩa nào phải học thuộc?",
+    "Tiêu chuẩn chẩn đoán nào phải học thuộc?",
+    "Thuật toán nào phải học thuộc?",
+    "Có làm lại đúng các câu sai không?",
+    "Có giải thích được vì sao đáp án khác sai không?",
+    "Nội dung nào cần ôn lại sau 3 ngày?"
+  ],
+  "drill": "30 câu lặp lại từ vùng sai.",
+  "output": [
+    "Cập nhật lỗi lặp lại",
+    "Tạo danh sách ôn sau 3 ngày"
+  ]
+}

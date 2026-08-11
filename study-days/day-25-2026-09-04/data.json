@@ -1,0 +1,29 @@
+{
+  "day": 25,
+  "date": "2026-09-04",
+  "title": "Vấn đáp cấp cứu",
+  "learn": [
+    "Chỉ học thuật toán cấp cứu",
+    "Tập nói thành quy trình"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK Bệnh _1_.md",
+    "converted-md/san-phu-khoa/sản ck1 pnt 2026.md"
+  ],
+  "questions": [
+    "Xử trí băng huyết sau sinh từng bước.",
+    "Xử trí sản giật từng bước.",
+    "Xử trí thai ngoài tử cung không ổn định từng bước.",
+    "Phân biệt nhau tiền đạo và nhau bong non.",
+    "Xử trí nghi nhiễm trùng thai kỳ/hậu sản.",
+    "Chỉ định mổ lấy thai cấp cứu là gì?",
+    "Dấu hiệu suy thai là gì?",
+    "Bước đầu khi kẹt vai là gì?",
+    "Dấu hiệu ngộ độc magnesium là gì?",
+    "Dấu hiệu đỏ trong ra huyết đầu thai kỳ là gì?"
+  ],
+  "drill": "60 câu mục tiêu về cấp cứu.",
+  "output": [
+    "Thu âm hoặc viết lại 5 thuật toán cấp cứu"
+  ]
+}

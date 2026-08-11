@@ -1,0 +1,31 @@
+{
+  "day": 7,
+  "date": "2026-08-17",
+  "title": "Giải phẫu hỗ trợ Sản phụ khoa",
+  "learn": [
+    "Khung chậu nữ",
+    "Tử cung và phần phụ",
+    "Niệu quản - động mạch tử cung",
+    "Mạch máu và dây chằng vùng chậu"
+  ],
+  "docs": [
+    "converted-md/giai-phau/gp nhớ lại _1_.md",
+    "converted-md/giai-phau/Trắc nghiệm Giải Phẫu - GS Nguyễn Quang Quyền.md"
+  ],
+  "questions": [
+    "Xương nào tạo nên khung chậu nữ?",
+    "Giới hạn eo trên và eo dưới là gì?",
+    "Dây chằng nào nâng đỡ tử cung?",
+    "Niệu quản đi gần động mạch tử cung như thế nào?",
+    "Ý nghĩa lâm sàng của water under the bridge là gì?",
+    "Nguồn cấp máu của tử cung là gì?",
+    "Nguồn cấp máu của buồng trứng là gì?",
+    "Liên quan giải phẫu của tử cung là gì?",
+    "Các lớp của tử cung là gì?",
+    "Điểm giải phẫu nào quan trọng khi mổ lấy thai hoặc cắt tử cung?"
+  ],
+  "drill": "25 câu Giải phẫu nếu môn này được xác nhận.",
+  "output": [
+    "Tờ ôn 1 trang giải phẫu chậu nữ"
+  ]
+}

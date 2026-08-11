@@ -1,0 +1,31 @@
+{
+  "day": 2,
+  "date": "2026-08-12",
+  "title": "Chu kỳ kinh nguyệt và xuất huyết tử cung bất thường",
+  "learn": [
+    "Sinh lý chu kỳ kinh nguyệt",
+    "Rối loạn kinh nguyệt",
+    "AUB và PALM-COEIN"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK cơ bản _1_.md",
+    "converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md"
+  ],
+  "questions": [
+    "Trình bày các pha của chu kỳ kinh nguyệt bình thường.",
+    "Hormone nào chiếm ưu thế ở pha nang noãn, rụng trứng và hoàng thể?",
+    "Định nghĩa xuất huyết tử cung bất thường.",
+    "Giải thích PALM-COEIN.",
+    "Bệnh nhân AUB bắt buộc phải hỏi bệnh sử gì?",
+    "Cận lâm sàng đầu tay trong AUB là gì?",
+    "Khi nào phải loại trừ thai?",
+    "Dấu hiệu nào gợi ý ác tính hoặc bệnh nặng?",
+    "Phân biệt nguyên nhân cấu trúc và không cấu trúc thế nào?",
+    "Xử trí đầu tiên khi chảy máu gây mất ổn định huyết động là gì?"
+  ],
+  "drill": "Làm 30 câu về sinh lý kinh, AUB và nội tiết phụ khoa.",
+  "output": [
+    "Tóm tắt PALM-COEIN 1 trang",
+    "Ghi ít nhất 5 lỗi/câu phân vân"
+  ]
+}

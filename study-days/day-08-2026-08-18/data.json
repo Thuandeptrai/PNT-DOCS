@@ -1,0 +1,32 @@
+{
+  "day": 8,
+  "date": "2026-08-18",
+  "title": "Ra huyết đầu thai kỳ",
+  "learn": [
+    "Dọa sẩy",
+    "Sẩy thai",
+    "Thai ngoài tử cung",
+    "Thai trứng"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK Bệnh _1_.md",
+    "converted-md/san-phu-khoa/Sản Huế.md",
+    "converted-md/san-phu-khoa/sản ck1 pnt 2026.md"
+  ],
+  "questions": [
+    "Phân biệt dọa sẩy và sẩy thai khó tránh.",
+    "Phân biệt sẩy thai không hoàn toàn và hoàn toàn.",
+    "Triệu chứng nào gợi ý thai ngoài tử cung?",
+    "Vai trò beta-hCG là gì?",
+    "Siêu âm cần tìm gì trong ra huyết đầu thai kỳ?",
+    "Điều kiện điều trị MTX trong thai ngoài tử cung là gì?",
+    "Khi nào thai ngoài tử cung cần mổ?",
+    "Dấu hiệu nào gợi ý thai trứng?",
+    "Biến chứng sau thai trứng là gì?",
+    "Cần lưu ý Rh như thế nào?"
+  ],
+  "drill": "40 câu về ra huyết đầu thai kỳ.",
+  "output": [
+    "Bảng phân biệt 4 nguyên nhân ra huyết đầu thai kỳ"
+  ]
+}

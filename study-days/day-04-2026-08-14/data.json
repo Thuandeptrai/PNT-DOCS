@@ -1,0 +1,31 @@
+{
+  "day": 4,
+  "date": "2026-08-14",
+  "title": "Thai, phần phụ, ngôi thế và chuyển dạ",
+  "learn": [
+    "Thai nhi và phần phụ đủ tháng",
+    "Ngôi - thế - kiểu thế",
+    "Sinh lý chuyển dạ và biểu đồ chuyển dạ"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/Sản Huế.md",
+    "converted-md/san-phu-khoa/SPK cơ bản _1_.md"
+  ],
+  "questions": [
+    "Định nghĩa ngôi, thế, kiểu thế và độ lọt.",
+    "Các đường kính sọ thai quan trọng là gì?",
+    "Các giai đoạn chuyển dạ là gì?",
+    "Khi nào gọi là chuyển dạ hoạt động?",
+    "Biểu đồ chuyển dạ dùng để làm gì?",
+    "Dấu hiệu nào gợi ý chuyển dạ bất thường?",
+    "Cần theo dõi gì trong chuyển dạ?",
+    "Suy thai là gì?",
+    "Chỉ định mổ lấy thai thường gặp là gì?",
+    "Bước đầu khi chuyển dạ không tiến triển là gì?"
+  ],
+  "drill": "Làm 30 câu về chuyển dạ, ngôi thế và biểu đồ chuyển dạ.",
+  "output": [
+    "Vẽ sơ đồ chuyển dạ bình thường",
+    "Ghi các bẫy hay sai"
+  ]
+}

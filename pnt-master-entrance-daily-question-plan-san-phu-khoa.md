@@ -20,6 +20,8 @@ Dùng file này mỗi ngày. Mỗi ngày sẽ cho AI giáo viên và người h�
 - Cần trả lời câu hỏi nào bằng miệng hoặc bằng viết.
 - Cần ghi gì vào nhật ký câu sai.
 
+Nếu muốn dùng cấu trúc thư mục thay vì một file dài, mở `study-days/README.md`. Trong đó mỗi ngày có folder riêng gồm `README.md`, `questions.md`, `checklist.md`, và `data.json`.
+
 Ngân hàng câu hỏi chính:
 
 - `converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md`

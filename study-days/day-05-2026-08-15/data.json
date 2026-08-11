@@ -1,0 +1,25 @@
+{
+  "day": 5,
+  "date": "2026-08-15",
+  "title": "Thi thử ngắn 1",
+  "learn": [
+    "Không học kiến thức mới trước thi thử",
+    "Ôn flashcard và lỗi cũ"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md",
+    "converted-md/san-phu-khoa/sản ck1 pnt 2026.md"
+  ],
+  "questions": [
+    "Làm 80 câu trộn có bấm giờ.",
+    "10 câu khó nhất là câu nào?",
+    "Vì sao đáp án sai lại dễ bị chọn?",
+    "Mỗi câu sai rút ra quy tắc gì?",
+    "Chủ đề nào xanh, vàng, đỏ?"
+  ],
+  "drill": "80 câu trộn tuần 1, không xem tài liệu.",
+  "output": [
+    "Bảng sửa lỗi thi thử 1",
+    "Top 5 chủ đề yếu nhất"
+  ]
+}

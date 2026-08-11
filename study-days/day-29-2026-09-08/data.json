@@ -1,0 +1,33 @@
+{
+  "day": 29,
+  "date": "2026-09-08",
+  "title": "Ôn nhẹ cuối cùng",
+  "learn": [
+    "Không học nặng",
+    "Không đọc chương mới",
+    "Chuẩn bị tinh thần và giấy tờ"
+  ],
+  "docs": [
+    "mistake-logs/mistake-log-san-phu-khoa.md",
+    "knowledge-mind-map-san-phu-khoa.md",
+    "Tờ ôn trọng điểm đã tạo"
+  ],
+  "questions": [
+    "Đọc thuộc thuật toán PPH.",
+    "Đọc thuộc thuật toán tiền sản giật/sản giật.",
+    "Đọc thuộc chẩn đoán phân biệt ra huyết đầu thai kỳ.",
+    "Đọc thuộc chẩn đoán phân biệt APH.",
+    "Đọc thuộc AUB/PALM-COEIN.",
+    "Đọc thuộc tiêu chuẩn PID.",
+    "Đọc thuộc tầm soát cổ tử cung.",
+    "Đọc thuộc dấu hiệu đỏ khối u buồng trứng.",
+    "Đọc thuộc chống chỉ định tránh thai.",
+    "Nếu lo lắng trong phòng thi thì làm gì?"
+  ],
+  "drill": "Chỉ ôn lỗi cũ, không làm đề quá nặng.",
+  "output": [
+    "Chuẩn bị giấy tờ",
+    "Ngừng học nặng sớm",
+    "Ngủ đủ"
+  ]
+}

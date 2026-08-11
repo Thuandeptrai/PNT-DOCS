@@ -1,0 +1,29 @@
+{
+  "day": 28,
+  "date": "2026-09-07",
+  "title": "Sửa chủ đề yếu cuối cùng",
+  "learn": [
+    "Chỉ sửa lỗi lặp lại",
+    "Không mở chương mới"
+  ],
+  "docs": [
+    "mistake-logs/mistake-log-san-phu-khoa.md",
+    "knowledge-mind-map-san-phu-khoa.md",
+    "Tài liệu nguồn của lỗi lặp lại"
+  ],
+  "questions": [
+    "20 lỗi lặp lại nhiều nhất là gì?",
+    "10 quy tắc cấp cứu quan trọng nhất là gì?",
+    "10 tiêu chuẩn chẩn đoán quan trọng nhất là gì?",
+    "10 dấu hiệu đỏ quan trọng nhất là gì?",
+    "Câu nào vẫn còn đoán?",
+    "Nhánh nào đã mạnh và không cần học thêm?",
+    "Sáng mai cần ôn gì?",
+    "Giấy tờ và logistics ngày thi cần gì?"
+  ],
+  "drill": "Chỉ làm câu sai và câu còn phân vân.",
+  "output": [
+    "Danh sách ôn sáng cuối",
+    "Checklist giấy tờ"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "day": 23,
+  "date": "2026-09-02",
+  "title": "Sửa thi thử đầy đủ 1",
+  "learn": [
+    "Chỉ học phần sai trong thi thử 1",
+    "Sửa lỗi theo nhánh mind map"
+  ],
+  "docs": [
+    "Tài liệu tương ứng với lỗi trong thi thử 1"
+  ],
+  "questions": [
+    "Nhánh nào sai nhiều nhất?",
+    "10 quy tắc bị bỏ lỡ là gì?",
+    "Câu nào sai do quên tiêu chuẩn?",
+    "Câu nào sai do đọc quá nhanh?",
+    "Câu nào sai do không biết bước xử trí đầu tiên?",
+    "Có làm lại đúng 20 câu sai nhất không?",
+    "5 flashcard nào phải thuộc tối nay?",
+    "Chủ đề nào cần đọc lại một lượt?"
+  ],
+  "drill": "50 câu lặp lại hoặc tương tự câu sai.",
+  "output": [
+    "Top 20 câu sai nguy hiểm",
+    "5 flashcard bắt buộc"
+  ]
+}

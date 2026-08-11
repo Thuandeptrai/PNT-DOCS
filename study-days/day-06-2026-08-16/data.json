@@ -1,0 +1,28 @@
+{
+  "day": 6,
+  "date": "2026-08-16",
+  "title": "Ngày sửa lỗi 1",
+  "learn": [
+    "Vá 2 chủ đề yếu nhất từ thi thử ngắn 1",
+    "Học lại định nghĩa và tiêu chuẩn bị quên"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK cơ bản _1_.md",
+    "converted-md/san-phu-khoa/Sản Huế.md"
+  ],
+  "questions": [
+    "5 chủ đề sai nhiều nhất hôm qua là gì?",
+    "Mỗi chủ đề thiếu định nghĩa nào?",
+    "Tiêu chuẩn chẩn đoán nào bị quên?",
+    "Bước xử trí nào chọn quá sớm hoặc quá muộn?",
+    "Từ khóa nào trong đề đã bị bỏ sót?",
+    "Có giải thích được câu sai mà không nhìn tài liệu không?",
+    "Có tự tạo được câu tương tự không?",
+    "Lần sau sẽ tránh lỗi này bằng quy tắc nào?"
+  ],
+  "drill": "Làm lại 20 câu thuộc vùng sai.",
+  "output": [
+    "Cập nhật mistake log",
+    "Tạo flashcard cho lỗi lặp lại"
+  ]
+}

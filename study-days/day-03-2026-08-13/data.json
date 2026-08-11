@@ -1,0 +1,32 @@
+{
+  "day": 3,
+  "date": "2026-08-13",
+  "title": "Sinh lý thai kỳ và chẩn đoán thai",
+  "learn": [
+    "Thay đổi giải phẫu - sinh lý khi mang thai",
+    "Chẩn đoán thai nghén",
+    "Ước tính tuổi thai"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK cơ bản _1_.md",
+    "converted-md/san-phu-khoa/Sản Huế.md",
+    "converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md"
+  ],
+  "questions": [
+    "Thai kỳ làm thay đổi tim mạch như thế nào?",
+    "Thai kỳ làm thay đổi hô hấp như thế nào?",
+    "Thai kỳ làm thay đổi huyết học như thế nào?",
+    "Thay đổi đường tiết niệu nào là sinh lý?",
+    "Triệu chứng nào gợi ý có thai nhưng không xác định?",
+    "Dấu hiệu có khả năng có thai là gì?",
+    "Yếu tố nào xác nhận có thai?",
+    "Ước tính tuổi thai sớm bằng cách nào?",
+    "Vai trò siêu âm theo từng tam cá nguyệt là gì?",
+    "Thay đổi sinh lý nào dễ bị nhầm với bệnh lý?"
+  ],
+  "drill": "Làm 30 câu về sinh lý thai kỳ và chẩn đoán thai.",
+  "output": [
+    "Tạo bảng thay đổi sinh lý thai kỳ",
+    "Ghi lỗi vào mistake log"
+  ]
+}

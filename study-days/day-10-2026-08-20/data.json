@@ -1,0 +1,31 @@
+{
+  "day": 10,
+  "date": "2026-08-20",
+  "title": "Đái tháo đường thai kỳ và tăng trưởng thai",
+  "learn": [
+    "Đái tháo đường thai kỳ",
+    "Thai chậm tăng trưởng",
+    "Thai to",
+    "Đánh giá sức khỏe thai"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK Bệnh _1_.md",
+    "converted-md/san-phu-khoa/Sản Huế.md"
+  ],
+  "questions": [
+    "Ai cần tầm soát đái tháo đường thai kỳ?",
+    "Nguy cơ cho mẹ là gì?",
+    "Nguy cơ cho thai/sơ sinh là gì?",
+    "Nguyên tắc điều trị là gì?",
+    "Theo dõi đường huyết như thế nào?",
+    "Định nghĩa thai chậm tăng trưởng.",
+    "Nguyên nhân thai chậm tăng trưởng là gì?",
+    "Các phương pháp theo dõi thai là gì?",
+    "Thai to là gì?",
+    "Thai to làm tăng nguy cơ sinh nào?"
+  ],
+  "drill": "35 câu về đái tháo đường, tăng trưởng thai và theo dõi thai.",
+  "output": [
+    "Bảng nguy cơ mẹ - thai trong đái tháo đường thai kỳ"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "day": 27,
+  "date": "2026-09-06",
+  "title": "Ôn Phụ khoa và Ung thư trọng điểm",
+  "learn": [
+    "Chỉ ôn Phụ khoa/Ung thư high-yield",
+    "Tập tiếp cận triệu chứng"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK cơ bản _1_.md",
+    "converted-md/san-phu-khoa/SPK Bệnh _1_.md",
+    "converted-md/san-phu-khoa/sản ck1 pnt 2026.md"
+  ],
+  "questions": [
+    "Trình bày tiếp cận AUB.",
+    "Trình bày chẩn đoán phân biệt khí hư.",
+    "Trình bày chẩn đoán và biến chứng PID.",
+    "Trình bày triệu chứng và nguyên tắc xử trí u xơ.",
+    "So sánh lạc nội mạc tử cung và adenomyosis.",
+    "Trình bày tiếp cận khối u buồng trứng.",
+    "Trình bày logic tầm soát cổ tử cung.",
+    "Dấu hiệu đỏ ung thư phụ khoa là gì?",
+    "Chống chỉ định tránh thai là gì?",
+    "Trình bày PCOS cơ bản."
+  ],
+  "drill": "80 câu Phụ khoa/Ung thư.",
+  "output": [
+    "Tờ ôn Phụ khoa/Ung thư cuối cùng"
+  ]
+}

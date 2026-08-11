@@ -1,0 +1,34 @@
+{
+  "day": 18,
+  "date": "2026-08-28",
+  "title": "Tầm soát cổ tử cung và ung thư phụ khoa",
+  "learn": [
+    "Pap",
+    "HPV",
+    "CIN",
+    "Ung thư cổ tử cung",
+    "Ung thư nội mạc tử cung",
+    "Ung thư buồng trứng",
+    "Bệnh nguyên bào nuôi"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK Bệnh _1_.md",
+    "converted-md/san-phu-khoa/sản ck1 pnt 2026.md"
+  ],
+  "questions": [
+    "Mục đích Pap là gì?",
+    "Vai trò HPV testing là gì?",
+    "CIN là gì?",
+    "Triệu chứng gợi ý ung thư cổ tử cung là gì?",
+    "Triệu chứng gợi ý ung thư nội mạc tử cung là gì?",
+    "Triệu chứng gợi ý ung thư buồng trứng là gì?",
+    "Bệnh nguyên bào nuôi là gì?",
+    "Beta-hCG dùng thế nào sau thai trứng?",
+    "Khi thất bại MTX trong bệnh nguyên bào nuôi thì đổi điều trị thế nào?",
+    "Dấu hiệu đỏ ung thư trong đề thi là gì?"
+  ],
+  "drill": "40 câu về tầm soát và ung thư.",
+  "output": [
+    "Tờ ôn HPV/Pap/CIN"
+  ]
+}

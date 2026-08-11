@@ -1,0 +1,31 @@
+{
+  "day": 17,
+  "date": "2026-08-27",
+  "title": "Khối u buồng trứng và vô sinh cơ bản",
+  "learn": [
+    "U nang buồng trứng",
+    "Khối u phần phụ",
+    "Tiếp cận vô sinh"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK Bệnh _1_.md",
+    "converted-md/san-phu-khoa/SPK cơ bản _1_.md",
+    "converted-md/san-phu-khoa/sản ck1 pnt 2026.md"
+  ],
+  "questions": [
+    "Tiếp cận khối u phần phụ thế nào?",
+    "Triệu chứng gợi ý xoắn buồng trứng là gì?",
+    "Đặc điểm siêu âm nào gợi ý ác tính?",
+    "U buồng trứng nào thường lành tính?",
+    "U nào có nguy cơ ác tính?",
+    "Marker u nào có thể cân nhắc?",
+    "Định nghĩa vô sinh.",
+    "Nguyên nhân vô sinh nữ là gì?",
+    "Cần nghĩ gì về yếu tố nam?",
+    "Xét nghiệm đầu tay trong vô sinh là gì?"
+  ],
+  "drill": "35 câu về khối u buồng trứng và vô sinh.",
+  "output": [
+    "Sơ đồ tiếp cận khối u phần phụ"
+  ]
+}

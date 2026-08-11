@@ -1,0 +1,32 @@
+{
+  "day": 21,
+  "date": "2026-08-31",
+  "title": "Tránh thai, dậy thì, PCOS, mãn kinh",
+  "learn": [
+    "Các phương pháp tránh thai",
+    "Chống chỉ định thuốc tránh thai phối hợp",
+    "Rối loạn dậy thì",
+    "PCOS",
+    "Mãn kinh"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK cơ bản _1_.md",
+    "converted-md/san-phu-khoa/sản ck1 pnt 2026.md"
+  ],
+  "questions": [
+    "Có những phương pháp tránh thai nào?",
+    "Chống chỉ định tránh thai phối hợp là gì?",
+    "Sau sinh có thể dùng phương pháp nào?",
+    "Tránh thai khẩn cấp là gì?",
+    "Dậy thì sớm là gì?",
+    "Dậy thì trung ương và ngoại biên khác nhau thế nào?",
+    "Khái niệm chẩn đoán PCOS là gì?",
+    "Nguy cơ chuyển hóa của PCOS là gì?",
+    "Định nghĩa mãn kinh.",
+    "Triệu chứng và nguy cơ của mãn kinh là gì?"
+  ],
+  "drill": "35 câu về tránh thai và nội tiết.",
+  "output": [
+    "Bảng chống chỉ định tránh thai phối hợp"
+  ]
+}

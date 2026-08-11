@@ -1,0 +1,25 @@
+{
+  "day": 24,
+  "date": "2026-09-03",
+  "title": "Thi thử đầy đủ 2",
+  "learn": [
+    "Không học mới",
+    "Kiểm tra tiến bộ so với thi thử 1"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md",
+    "converted-md/san-phu-khoa/sản ck1 pnt 2026.md"
+  ],
+  "questions": [
+    "Làm 120-150 câu trộn có bấm giờ.",
+    "So điểm với thi thử đầy đủ 1.",
+    "Đánh dấu lỗi lặp lại.",
+    "Đánh dấu chủ đề vẫn chưa an toàn.",
+    "Chọn ưu tiên tuần cuối."
+  ],
+  "drill": "120-150 câu mô phỏng thi.",
+  "output": [
+    "Bảng sửa thi thử đầy đủ 2",
+    "Danh sách ưu tiên tuần cuối"
+  ]
+}

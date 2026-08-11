@@ -161,9 +161,11 @@ AI giáo viên nên đọc theo thứ tự:
 2. `pnt-master-entrance-study-plan-san-phu-khoa.md`
 3. `pnt-master-entrance-daily-question-plan-san-phu-khoa.md`
 4. `knowledge-mind-map-san-phu-khoa.md`
-5. `mistake-logs/mistake-log-san-phu-khoa.md`
-6. Các file trong `converted-md/san-phu-khoa`
-7. Các file trong `converted-md/giai-phau` nếu môn Giải phẫu được xác nhận
+5. `study-days/README.md`
+6. Folder ngày học cụ thể trong `study-days/day-xx-yyyy-mm-dd`
+7. `mistake-logs/mistake-log-san-phu-khoa.md`
+8. Các file trong `converted-md/san-phu-khoa`
+9. Các file trong `converted-md/giai-phau` nếu môn Giải phẫu được xác nhận
 
 ## 8. Câu hỏi mở đầu cho người học
 

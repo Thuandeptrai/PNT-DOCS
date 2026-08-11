@@ -1,0 +1,25 @@
+{
+  "day": 19,
+  "date": "2026-08-29",
+  "title": "Thi thử ngắn 3 - Sản phụ khoa hỗn hợp",
+  "learn": [
+    "Không học mới trước thi thử",
+    "Luyện tốc độ và phân loại lỗi"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md",
+    "converted-md/san-phu-khoa/sản ck1 pnt 2026.md"
+  ],
+  "questions": [
+    "Làm 120 câu trộn có bấm giờ.",
+    "Gắn mỗi câu sai vào một nhánh mind map.",
+    "3 kiểu lỗi lặp lại nhiều nhất là gì?",
+    "Giải thích một cấp cứu sản khoa bằng miệng.",
+    "Giải thích một đường tiếp cận phụ khoa bằng miệng."
+  ],
+  "drill": "120 câu trộn Sản - Phụ - Ung thư.",
+  "output": [
+    "Bảng sửa thi thử 3",
+    "Danh sách bẫy lặp lại"
+  ]
+}

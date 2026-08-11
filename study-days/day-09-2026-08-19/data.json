@@ -1,0 +1,32 @@
+{
+  "day": 9,
+  "date": "2026-08-19",
+  "title": "Tăng huyết áp thai kỳ và tiền sản giật",
+  "learn": [
+    "Tăng huyết áp thai kỳ",
+    "Tiền sản giật",
+    "Dấu hiệu nặng",
+    "Sản giật",
+    "HELLP"
+  ],
+  "docs": [
+    "converted-md/san-phu-khoa/SPK Bệnh _1_.md",
+    "converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md"
+  ],
+  "questions": [
+    "Định nghĩa tăng huyết áp thai kỳ.",
+    "Định nghĩa tiền sản giật.",
+    "Dấu hiệu nặng của tiền sản giật là gì?",
+    "Cần làm xét nghiệm gì?",
+    "Triệu chứng báo động là gì?",
+    "Magnesium sulfate dùng để làm gì?",
+    "Dấu hiệu ngộ độc magnesium là gì?",
+    "Kiểm soát huyết áp nặng như thế nào?",
+    "Khi nào cân nhắc chấm dứt thai kỳ?",
+    "Xử trí đầu tiên khi sản giật là gì?"
+  ],
+  "drill": "40 câu và vấn đáp thuật toán magnesium sulfate.",
+  "output": [
+    "Tờ ôn tiền sản giật/sản giật"
+  ]
+}
