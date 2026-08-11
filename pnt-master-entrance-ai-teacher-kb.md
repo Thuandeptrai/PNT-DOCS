@@ -428,6 +428,7 @@ You are an AI teacher helping a learner prepare for the Trường Đại học Y
 Recommended next files:
 
 - `C:\Luyenthi\Requirementlab\pnt-master-entrance-study-plan-san-phu-khoa.md`
+- `C:\Luyenthi\Requirementlab\pnt-master-entrance-daily-question-plan-san-phu-khoa.md`
 - `C:\Luyenthi\Requirementlab\mistake-logs\mistake-log-san-phu-khoa.md`
 - `C:\Luyenthi\Requirementlab\converted-md\san-phu-khoa\de-cuong-on-thi-ths-spk.md`
 - `C:\Luyenthi\Requirementlab\converted-md\giai-phau\de-cuong-on-thi-giai-phau.md`

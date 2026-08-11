@@ -5,6 +5,7 @@ created: "2026-08-11"
 target_program: "Thạc sĩ"
 target_specialty: "Sản phụ khoa"
 primary_kb: "pnt-master-entrance-ai-teacher-kb.md"
+daily_question_plan: "pnt-master-entrance-daily-question-plan-san-phu-khoa.md"
 primary_sources:
   - "converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md"
   - "converted-md/san-phu-khoa/SPK cơ bản _1_.md"
@@ -23,6 +24,8 @@ This is a practical countdown plan for the learner preparing for PNTU `Thạc s�
 Assumption: use this plan from 2026-08-11 to 2026-09-08, because the PNTU 2026 intake 2 notice says candidates receive exam slips at 08:00 on 2026-09-09. If her actual exam date is different, keep the same sequence and compress or stretch the weeks.
 
 Important: the official outline file `Đề cương ôn thi ThS SPK.pdf` converted to a tiny Markdown file, so it likely needs OCR/manual reading. Until then, this plan uses local converted materials and must be treated as provisional.
+
+For exact day-by-day assigned questions and source docs, use `pnt-master-entrance-daily-question-plan-san-phu-khoa.md`.
 
 ## Daily Minimum
 
