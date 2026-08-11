@@ -1,107 +1,100 @@
 ---
-title: "PNTU Thạc sĩ Sản phụ khoa - 4 Week Study Plan"
-version: "1.0"
+title: "PNTU Thạc sĩ Sản phụ khoa - Kế hoạch học 4 tuần"
+version: "1.1"
 created: "2026-08-11"
 target_program: "Thạc sĩ"
 target_specialty: "Sản phụ khoa"
 primary_kb: "pnt-master-entrance-ai-teacher-kb.md"
 daily_question_plan: "pnt-master-entrance-daily-question-plan-san-phu-khoa.md"
-primary_sources:
-  - "converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md"
-  - "converted-md/san-phu-khoa/SPK cơ bản _1_.md"
-  - "converted-md/san-phu-khoa/SPK Bệnh _1_.md"
-  - "converted-md/san-phu-khoa/sản ck1 pnt 2026.md"
-  - "converted-md/san-phu-khoa/Sản Huế.md"
-  - "converted-md/giai-phau/gp nhớ lại _1_.md"
-  - "converted-md/giai-phau/Trắc nghiệm Giải Phẫu - GS Nguyễn Quang Quyền.md"
-status: "provisional until official 2026 PNTU Sản phụ khoa outline is OCR-confirmed"
+status: "kế hoạch tạm thời cho tới khi OCR/xác nhận đề cương chính thức PNTU 2026"
 ---
 
-# PNTU Thạc sĩ Sản phụ khoa - 4 Week Study Plan
+# PNTU Thạc sĩ Sản phụ khoa - Kế hoạch học 4 tuần
 
-This is a practical countdown plan for the learner preparing for PNTU `Thạc sĩ Sản phụ khoa`.
+Kế hoạch này dành cho người học ôn thi Sau đại học PNTU, mục tiêu `Thạc sĩ Sản phụ khoa`.
 
-Assumption: use this plan from 2026-08-11 to 2026-09-08, because the PNTU 2026 intake 2 notice says candidates receive exam slips at 08:00 on 2026-09-09. If her actual exam date is different, keep the same sequence and compress or stretch the weeks.
+Mốc tạm dùng: từ `2026-08-11` đến `2026-09-08`, vì thông báo PNTU 2026 đợt 2 ghi thí sinh nhận phiếu báo dự thi lúc 08:00 ngày `2026-09-09`. Nếu ngày thi thực tế khác, giữ thứ tự học này và co giãn số ngày.
 
-Important: the official outline file `Đề cương ôn thi ThS SPK.pdf` converted to a tiny Markdown file, so it likely needs OCR/manual reading. Until then, this plan uses local converted materials and must be treated as provisional.
+Quan trọng: file `Đề cương ôn thi ThS SPK.pdf` hiện chuyển sang Markdown rất ít chữ, khả năng cao là PDF scan/ảnh. Vì vậy kế hoạch này là tạm thời, dựa trên tài liệu đã chuyển trong `converted-md`.
 
-For exact day-by-day assigned questions and source docs, use `pnt-master-entrance-daily-question-plan-san-phu-khoa.md`.
+File chi tiết từng ngày: `pnt-master-entrance-daily-question-plan-san-phu-khoa.md`.
 
-## Daily Minimum
+## Cách học mỗi ngày
 
-If she has 2.5-3 hours/day:
+Nếu có 2.5-3 giờ/ngày:
 
-| Block | Time | Task |
+| Khối học | Thời lượng | Việc cần làm |
 |---|---:|---|
-| Mistake review | 20 min | Review yesterday's wrong answers. |
-| Core topic | 60 min | Read one topic from `SPK cơ bản`, `SPK Bệnh`, or `Sản Huế`. |
-| Question drill | 60 min | Do 25-40 questions from `TN4000` or `sản ck1 pnt 2026`. |
-| Correction | 30 min | Write why each wrong answer was wrong. |
-| Flashcards | 10 min | Add criteria, red flags, algorithms. |
+| Ôn lỗi cũ | 20 phút | Xem lại lỗi hôm qua trong nhật ký câu sai. |
+| Học chủ đề chính | 60 phút | Đọc đúng tài liệu được giao. |
+| Làm câu hỏi | 60 phút | Làm 25-40 câu từ ngân hàng câu hỏi. |
+| Sửa lỗi | 30 phút | Ghi vì sao sai và quy tắc cần nhớ. |
+| Flashcard | 10 phút | Tạo thẻ cho tiêu chuẩn chẩn đoán, dấu hiệu nặng, xử trí đầu tiên. |
 
-If she has only 90 minutes/day:
+Nếu chỉ có 90 phút/ngày:
 
-| Block | Time | Task |
+| Khối học | Thời lượng | Việc cần làm |
 |---|---:|---|
-| Mistake review | 10 min | Review only high-risk mistakes. |
-| Core topic | 35 min | Learn one small subtopic. |
-| Questions | 35 min | Do 15-20 questions. |
-| Correction | 10 min | Record the top 3 lessons. |
+| Ôn lỗi | 10 phút | Chỉ ôn lỗi nguy hiểm/lặp lại. |
+| Học lõi | 35 phút | Một chủ đề nhỏ. |
+| Câu hỏi | 35 phút | 15-20 câu. |
+| Sửa lỗi | 10 phút | Ghi 3 bài học quan trọng nhất. |
 
-## Weekly Rhythm
+## Nhịp học theo tuần
 
-- Monday-Friday: study and drill.
-- Saturday: 80-120 question mixed test.
-- Sunday: correction day, weak-topic repair, rest half-day.
+- Thứ 2 đến thứ 6: học chủ đề và làm câu hỏi.
+- Thứ 7: làm Thi thử ngắn hoặc Thi thử đầy đủ có bấm giờ.
+- Chủ nhật: sửa lỗi, vá lỗ hổng, nghỉ nửa ngày.
 
-Every wrong answer must become one line in the mistake log:
+Mỗi câu sai phải ghi vào:
 
-```markdown
-| Date | Source | Topic | Question | My Answer | Correct Answer | Why Wrong | Rule To Remember | Review Date |
-```
+`mistake-logs/mistake-log-san-phu-khoa.md`
 
-## Week 1: Build the Base and Find Weaknesses
+## Tuần 1 - Nền tảng và chẩn đoán điểm yếu
 
-Dates: 2026-08-11 to 2026-08-17
+Thời gian: `2026-08-11` đến `2026-08-17`
 
-Goal: identify weak areas and stabilize core Sản phụ khoa foundations.
+Mục tiêu:
 
-### Topics
+- Nắm hệ thống tài liệu.
+- Chạy Chẩn đoán ban đầu ban đầu.
+- Ổn định nền tảng kinh nguyệt, thai kỳ, chuyển dạ, giải phẫu liên quan.
+
+Chủ đề:
 
 - Sinh lý và rối loạn kinh nguyệt
 - Sinh lý phụ khoa
-- Các phương pháp thăm dò trong phụ khoa
+- Thăm dò trong phụ khoa
 - Thay đổi giải phẫu - sinh lý khi mang thai
 - Chẩn đoán thai nghén
 - Ngôi, thế, kiểu thế
 - Sinh lý chuyển dạ
 - Biểu đồ chuyển dạ
+- Giải phẫu khung chậu nữ nếu môn Giải phẫu có trong kỳ thi
 
-### Sources
+Nguồn chính:
 
 - `converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md`
 - `converted-md/san-phu-khoa/SPK cơ bản _1_.md`
 - `converted-md/san-phu-khoa/Sản Huế.md`
+- `converted-md/giai-phau/gp nhớ lại _1_.md`
 
-### Tasks
+Kết quả cần có cuối tuần:
 
-| Day | Main Work | Drill |
-|---|---|---|
-| Tue 2026-08-11 | Read KB and this plan. Create mistake log. Run 30-question diagnostic. | TN4000 mixed: menstrual physiology, pregnancy physiology. |
-| Wed 2026-08-12 | Menstrual cycle, AUB overview, endocrine basics. | 30 MCQs. |
-| Thu 2026-08-13 | Pregnancy physiology and pregnancy diagnosis. | 30 MCQs. |
-| Fri 2026-08-14 | Labor physiology, presentation/position, partograph basics. | 30 MCQs. |
-| Sat 2026-08-15 | Mini mock 1: 80 questions, timed. | No notes during test. |
-| Sun 2026-08-16 | Correct mock 1. Repair weakest 2 topics. | 20 repeat questions. |
-| Mon 2026-08-17 | Anatomy support: female pelvis, uterus, adnexa, pelvic vessels. | 20 anatomy questions if Giải phẫu is confirmed. |
+- Có nhật ký câu sai.
+- Biết 5 chủ đề yếu nhất.
+- Làm xong Thi thử ngắn 1.
 
-## Week 2: Obstetric Emergencies and High-Risk Pregnancy
+## Tuần 2 - Sản khoa nguy cơ cao và cấp cứu
 
-Dates: 2026-08-18 to 2026-08-24
+Thời gian: `2026-08-18` đến `2026-08-24`
 
-Goal: master high-risk, high-yield conditions where exam questions often test diagnosis and first management step.
+Mục tiêu:
 
-### Topics
+- Thuộc các tình huống cấp cứu và xử trí đầu tiên.
+- Nhận diện từ khóa trong câu hỏi.
+
+Chủ đề:
 
 - Dọa sẩy, sẩy thai, thai ngoài tử cung, thai trứng
 - Tiền sản giật, sản giật, HELLP
@@ -110,139 +103,107 @@ Goal: master high-risk, high-yield conditions where exam questions often test di
 - Nhau tiền đạo, nhau bong non
 - Ối vỡ non, sinh non
 - Băng huyết sau sinh
-- Suy thai, hồi sức sơ sinh basics if included
+- Nhiễm trùng hậu sản
 
-### Sources
+Nguồn chính:
 
 - `converted-md/san-phu-khoa/SPK Bệnh _1_.md`
 - `converted-md/san-phu-khoa/Sản Huế.md`
 - `converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md`
 - `converted-md/san-phu-khoa/sản ck1 pnt 2026.md`
 
-### Tasks
+Thuật toán phải thuộc:
 
-| Day | Main Work | Drill |
-|---|---|---|
-| Tue 2026-08-18 | Early pregnancy bleeding. | 40 questions. |
-| Wed 2026-08-19 | Hypertensive disorders. | 40 questions plus oral algorithm. |
-| Thu 2026-08-20 | Diabetes, fetal growth, fetal wellbeing. | 35 questions. |
-| Fri 2026-08-21 | Antepartum hemorrhage and preterm/ROM topics. | 40 questions. |
-| Sat 2026-08-22 | Mini mock 2: 100 questions, timed. | Mixed OB emergency focus. |
-| Sun 2026-08-23 | Correct mock 2. Create emergency algorithm flashcards. | 20 repeat questions. |
-| Mon 2026-08-24 | Postpartum hemorrhage and postpartum infection. | 30 questions. |
+- Băng huyết sau sinh: gọi hỗ trợ, ABC, xoa đáy tử cung, oxytocin/thuốc co hồi, tìm 4T, đường truyền, xét nghiệm, truyền máu, leo thang.
+- Tiền sản giật/sản giật: dấu hiệu nặng, magnesium sulfate, kiểm soát huyết áp, thời điểm chấm dứt thai kỳ.
+- Thai ngoài tử cung: ổn định hay không, beta-hCG, siêu âm, điều kiện MTX, chỉ định mổ.
+- Xuất huyết nửa sau thai kỳ: phân biệt nhau tiền đạo và nhau bong non.
 
-Must-memorize emergency algorithms:
+## Tuần 3 - Phụ khoa, ung thư phụ khoa, nội tiết sinh sản
 
-- PPH: call help, assess ABC, uterine massage, oxytocin/uterotonics, 4T causes, IV access, labs/blood, escalation.
-- Preeclampsia/eclampsia: severity signs, magnesium sulfate, BP control, delivery timing.
-- Ectopic pregnancy: stability, ultrasound/beta-hCG, MTX conditions, surgery indications.
-- APH: differentiate placenta previa vs abruption, avoid unsafe vaginal exam if previa suspected.
+Thời gian: `2026-08-25` đến `2026-08-31`
 
-## Week 3: Gynecology, Oncology, and Reproductive Endocrine
+Mục tiêu:
 
-Dates: 2026-08-25 to 2026-08-31
+- Nắm đường tiếp cận triệu chứng.
+- Biết phân biệt bệnh lành tính, nhiễm trùng, ung thư.
 
-Goal: tighten diagnostic categories, screening rules, benign gynecology, infection, oncology, contraception.
-
-### Topics
+Chủ đề:
 
 - Khí hư bất thường, viêm âm đạo, viêm cổ tử cung
-- Viêm phần phụ / PID
+- Viêm vùng chậu
 - Xuất huyết tử cung bất thường
 - U xơ tử cung
 - Lạc nội mạc tử cung, adenomyosis
-- U buồng trứng
-- Sùi mào gà, herpes sinh dục, STI basics
+- U buồng trứng, khối u phần phụ
+- Sùi mào gà, herpes sinh dục, STI
 - Tầm soát ung thư cổ tử cung, HPV, Pap
 - Ung thư nguyên bào nuôi, cổ tử cung, nội mạc tử cung, buồng trứng
-- Tránh thai, chống chỉ định thuốc tránh thai phối hợp
+- Tránh thai
 - Dậy thì, PCOS, mãn kinh
 
-### Sources
+Nguồn chính:
 
 - `converted-md/san-phu-khoa/SPK cơ bản _1_.md`
 - `converted-md/san-phu-khoa/SPK Bệnh _1_.md`
 - `converted-md/san-phu-khoa/sản ck1 pnt 2026.md`
 - `converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md`
 
-### Tasks
+Kết quả cần có:
 
-| Day | Main Work | Drill |
-|---|---|---|
-| Tue 2026-08-25 | Vaginal discharge, cervicitis, PID. | 40 questions. |
-| Wed 2026-08-26 | AUB, fibroids, endometriosis, adenomyosis. | 40 questions. |
-| Thu 2026-08-27 | Ovarian masses and benign gynecology. | 35 questions. |
-| Fri 2026-08-28 | Cervical screening, HPV/Pap, oncology basics. | 40 questions. |
-| Sat 2026-08-29 | Mini mock 3: 120 questions, timed. | Mixed Gyn/OB. |
-| Sun 2026-08-30 | Correct mock 3. Repair top 3 weak topics. | 30 repeat questions. |
-| Mon 2026-08-31 | Contraception, puberty, PCOS, menopause. | 35 questions. |
+- Làm Thi thử ngắn 3.
+- Tạo danh sách bẫy hay sai: HPV/Pap, u buồng trứng, AUB, PID, tránh thai.
 
-## Week 4: Exam Simulation and Final Repair
+## Tuần 4 - Thi thử và vá lỗi cuối
 
-Dates: 2026-09-01 to 2026-09-08
+Thời gian: `2026-09-01` đến `2026-09-08`
 
-Goal: stop broad reading, maximize recall speed and error reduction.
+Mục tiêu:
 
-### Rules for Final Week
+- Không học lan man.
+- Tăng tốc nhớ và giảm lỗi lặp lại.
+- Ưu tiên thuật toán cấp cứu, tiêu chuẩn chẩn đoán, câu sai.
 
-- Do not start new low-yield chapters unless the official outline demands it.
-- Study only: mistake log, flashcards, emergency algorithms, high-yield tables, and mock corrections.
-- Every day includes at least one timed question block.
-- Sleep becomes part of the plan.
+Quy tắc tuần cuối:
 
-### Tasks
+- Không mở chương mới ít liên quan nếu đề cương không yêu cầu.
+- Mỗi ngày có ít nhất một block câu hỏi có bấm giờ.
+- Sửa lỗi quan trọng hơn làm thêm câu mới.
+- Ngủ đủ là một phần của kế hoạch.
 
-| Day | Main Work | Drill |
-|---|---|---|
-| Tue 2026-09-01 | Full mixed mock 1. | 120-150 questions timed. |
-| Wed 2026-09-02 | Correct full mock 1. | Relearn top 5 missed rules. |
-| Thu 2026-09-03 | Full mixed mock 2. | 120-150 questions timed. |
-| Fri 2026-09-04 | Correct full mock 2. | Emergency oral exam. |
-| Sat 2026-09-05 | High-yield OB review. | 80 targeted questions. |
-| Sun 2026-09-06 | High-yield Gyn/Onco review. | 80 targeted questions. |
-| Mon 2026-09-07 | Final weak-topic repair. | Only missed questions. |
-| Tue 2026-09-08 | Light review, documents, sleep. | No heavy new content. |
+Lịch:
 
-## High-Yield Recall Sheets to Build
+| Ngày | Việc chính |
+|---|---|
+| 2026-09-01 | Thi thử đầy đủ 1, 120-150 câu. |
+| 2026-09-02 | Sửa Thi thử đầy đủ 1, vá 5 lỗi lớn nhất. |
+| 2026-09-03 | Thi thử đầy đủ 2, 120-150 câu. |
+| 2026-09-04 | Sửa Thi thử đầy đủ 2, vấn đáp cấp cứu. |
+| 2026-09-05 | Ôn Sản khoa trọng điểm, 80 câu. |
+| 2026-09-06 | Ôn Phụ khoa/Ung thư, 80 câu. |
+| 2026-09-07 | Chỉ sửa lỗi lặp lại. |
+| 2026-09-08 | Ôn nhẹ, chuẩn bị giấy tờ, ngủ. |
 
-Create one-page sheets for:
+## Tờ ôn 1 trang cần tạo
 
-- Preeclampsia/eclampsia
-- Postpartum hemorrhage
-- Ectopic pregnancy
-- Placenta previa vs placental abruption
-- AUB and PALM-COEIN
-- PID and vaginal discharge
-- Cervical screening and HPV/Pap management
-- Ovarian mass approach
-- Contraception contraindications
-- Female pelvis and uterine/adnexal anatomy if Giải phẫu is confirmed
+- Tiền sản giật/sản giật
+- Băng huyết sau sinh
+- Thai ngoài tử cung
+- Nhau tiền đạo vs nhau bong non
+- AUB và PALM-COEIN
+- PID và khí hư bất thường
+- Tầm soát cổ tử cung HPV/Pap
+- Khối u buồng trứng
+- Chống chỉ định tránh thai phối hợp
+- Giải phẫu khung chậu nữ nếu môn Giải phẫu được xác nhận
 
-## Mock Test Rules
+## Cách AI giáo viên dạy mỗi buổi
 
-For each mock:
+1. Hỏi hôm qua học gì.
+2. Hỏi lại 5 lỗi cũ.
+3. Dạy đúng một chủ đề hôm nay.
+4. Hỏi 10-20 câu.
+5. Sửa cách suy luận, không chỉ sửa đáp án.
+6. Cập nhật nhật ký câu sai.
+7. Giao bài ngày mai.
 
-- Use timer.
-- No notes.
-- Mark every uncertain question, even if correct.
-- Correction takes longer than testing. That is normal.
-- For every wrong answer, write one rule that would prevent the same mistake.
-
-## What the AI Teacher Should Do Each Session
-
-1. Ask what she studied yesterday.
-2. Quiz 5 old mistakes.
-3. Teach today's one topic.
-4. Ask 10-20 questions.
-5. Correct reasoning, not only final answer.
-6. Update mistake log.
-7. Assign tomorrow's source pages/topics.
-
-## After Official Outline OCR
-
-When `Đề cương ôn thi ThS SPK.pdf` is OCR-readable:
-
-- Replace the provisional topic list with the official topic list.
-- Mark topics as `official`, `supporting`, or `extra`.
-- Remove low-yield topics not in the outline.
-- Rebalance mock tests based on official weighting if available.

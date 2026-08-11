@@ -1,14 +1,15 @@
-# Mistake Log - Sản phụ khoa
+# Nhật Ký Câu Sai - Sản phụ khoa
 
-Use this file every day. The goal is not to collect mistakes; the goal is to prevent repeat mistakes.
+Dùng file này mỗi ngày. Mục tiêu không phải là ghi thật nhiều lỗi, mà là không sai lại cùng một lỗi.
 
-| Date | Source | Topic | Question ID / Prompt | My Answer | Correct Answer | Why I Was Wrong | Rule To Remember | Review Date |
+| Ngày | Nguồn | Chủ đề | Mã câu / Câu hỏi | Đáp án của mình | Đáp án đúng | Vì sao sai | Quy tắc cần nhớ | Ngày ôn lại |
 |---|---|---|---|---|---|---|---|---|
-| 2026-08-11 | converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md | Diagnostic |  |  |  |  |  |  |
+| 2026-08-11 | converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md | Chẩn đoán ban đầu |  |  |  |  |  |  |
 
-## Review Rules
+## Quy Tắc Ôn Lỗi
 
-- Review new mistakes the next day.
-- Review serious mistakes again after 3 days.
-- Review repeated mistakes every week until correct twice in a row.
-- Convert emergency mistakes into algorithm flashcards.
+- Lỗi mới: ôn lại vào ngày hôm sau.
+- Lỗi nguy hiểm: ôn lại sau 3 ngày.
+- Lỗi lặp lại: ôn mỗi tuần cho tới khi đúng 2 lần liên tiếp.
+- Lỗi cấp cứu: chuyển thành flashcard dạng thuật toán.
+

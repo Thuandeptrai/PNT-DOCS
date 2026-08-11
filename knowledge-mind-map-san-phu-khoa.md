@@ -1,157 +1,158 @@
 ---
-title: "PNTU Thạc sĩ Sản phụ khoa - Knowledge Mind Map"
-version: "1.0"
+title: "PNTU Thạc sĩ Sản phụ khoa - Sơ đồ tư duy kiến thức"
+version: "1.1"
 created: "2026-08-11"
 primary_kb: "pnt-master-entrance-ai-teacher-kb.md"
 study_plan: "pnt-master-entrance-study-plan-san-phu-khoa.md"
-status: "provisional mind map from local converted materials"
+daily_question_plan: "pnt-master-entrance-daily-question-plan-san-phu-khoa.md"
+status: "sơ đồ tạm thời dựa trên tài liệu đã chuyển đổi trong converted-md"
 ---
 
-# PNTU Thạc sĩ Sản phụ khoa - Knowledge Mind Map
+# PNTU Thạc sĩ Sản phụ khoa - Sơ đồ tư duy kiến thức
 
-This mind map is for the learner and any AI teacher reading the repository. It organizes the Sản phụ khoa entrance-test knowledge into exam-ready domains.
+File này giúp người học và AI giáo viên nhìn toàn bộ kiến thức theo nhánh. Khi người học sai câu nào, hãy gắn câu sai đó vào đúng nhánh trong sơ đồ này.
 
-## Mermaid Mind Map
+## Sơ đồ Mermaid
 
 ```mermaid
 mindmap
   root(("PNTU Thạc sĩ Sản phụ khoa"))
-    "Official Exam Control"
-      "PNTU notice"
+    "Kiểm soát nguồn chính thức"
+      "Thông báo PNTU"
       "Đề cương ThS SPK"
-        "Needs OCR"
-        "Highest priority"
-      "Confirmed subjects"
+        "Cần OCR"
+        "Ưu tiên cao nhất"
+      "Môn thi đã xác nhận"
         "Sản phụ khoa"
-        "Giải phẫu if confirmed"
-      "Foreign language status"
+        "Giải phẫu nếu có"
+      "Tình trạng ngoại ngữ"
     "Sản khoa"
-      "Normal pregnancy"
-        "Physiology in pregnancy"
-        "Antenatal care"
-        "Pregnancy diagnosis"
-        "Fetal growth"
-      "Labor and delivery"
-        "Stages of labor"
-        "Presentation-position"
-        "Partograph"
-        "Abnormal labor"
-        "Cesarean indications"
-      "Early pregnancy bleeding"
-        "Threatened miscarriage"
-        "Miscarriage"
-        "Ectopic pregnancy"
-        "Molar pregnancy"
-      "High-risk pregnancy"
-        "Preeclampsia-eclampsia"
+      "Thai kỳ bình thường"
+        "Sinh lý thai kỳ"
+        "Khám thai"
+        "Chẩn đoán thai"
+        "Sự phát triển thai"
+      "Chuyển dạ và sinh"
+        "Các giai đoạn chuyển dạ"
+        "Ngôi - thế - kiểu thế"
+        "Biểu đồ chuyển dạ"
+        "Chuyển dạ bất thường"
+        "Chỉ định mổ lấy thai"
+      "Ra huyết đầu thai kỳ"
+        "Dọa sẩy"
+        "Sẩy thai"
+        "Thai ngoài tử cung"
+        "Thai trứng"
+      "Thai kỳ nguy cơ cao"
+        "Tiền sản giật - sản giật"
         "HELLP"
-        "Gestational diabetes"
-        "IUGR"
-        "Macrosomia"
-        "Preterm labor"
-        "PROM"
-      "Obstetric emergencies"
-        "Placenta previa"
-        "Placental abruption"
-        "Postpartum hemorrhage"
-        "Uterine rupture"
-        "Shoulder dystocia"
-        "Sepsis"
-      "Postpartum"
-        "Normal puerperium"
-        "Postpartum infection"
-        "Lactation"
-        "Postpartum contraception"
+        "Đái tháo đường thai kỳ"
+        "Thai chậm tăng trưởng"
+        "Thai to"
+        "Sinh non"
+        "Ối vỡ non"
+      "Cấp cứu sản khoa"
+        "Nhau tiền đạo"
+        "Nhau bong non"
+        "Băng huyết sau sinh"
+        "Vỡ tử cung"
+        "Kẹt vai"
+        "Nhiễm trùng"
+      "Hậu sản"
+        "Hậu sản bình thường"
+        "Nhiễm trùng hậu sản"
+        "Cho con bú"
+        "Tránh thai sau sinh"
     "Phụ khoa"
-      "Core symptoms"
-        "AUB"
-        "Amenorrhea"
-        "Dysmenorrhea"
-        "Pelvic pain"
-        "Vaginal discharge"
-      "Infection"
-        "Vaginitis"
-        "Cervicitis"
-        "PID"
-        "STIs"
+      "Triệu chứng lõi"
+        "Xuất huyết tử cung bất thường"
+        "Vô kinh"
+        "Thống kinh"
+        "Đau vùng chậu"
+        "Khí hư bất thường"
+      "Nhiễm trùng"
+        "Viêm âm đạo"
+        "Viêm cổ tử cung"
+        "Viêm vùng chậu"
+        "Bệnh lây truyền qua đường tình dục"
         "HPV"
         "Herpes"
-        "Condyloma"
-      "Benign disease"
-        "Fibroids"
-        "Endometriosis"
+        "Sùi mào gà"
+      "Bệnh lành tính"
+        "U xơ tử cung"
+        "Lạc nội mạc tử cung"
         "Adenomyosis"
-        "Ovarian cyst"
-        "Adnexal mass"
-      "Endocrine and fertility"
+        "U nang buồng trứng"
+        "Khối u phần phụ"
+      "Nội tiết và sinh sản"
         "PCOS"
-        "Puberty"
-        "Menopause"
-        "Infertility basics"
-      "Family planning"
-        "Combined pills"
-        "Progestin methods"
-        "IUD"
-        "Emergency contraception"
-        "Contraindications"
+        "Dậy thì"
+        "Mãn kinh"
+        "Vô sinh cơ bản"
+      "Kế hoạch hóa gia đình"
+        "Thuốc tránh thai phối hợp"
+        "Progestin"
+        "Dụng cụ tử cung"
+        "Tránh thai khẩn cấp"
+        "Chống chỉ định"
     "Ung thư phụ khoa"
-      "Cervical screening"
+      "Tầm soát cổ tử cung"
         "Pap"
         "HPV"
         "CIN"
-      "Cervical cancer"
-      "Endometrial cancer"
-      "Ovarian tumors"
-      "Gestational trophoblastic disease"
+      "Ung thư cổ tử cung"
+      "Ung thư nội mạc tử cung"
+      "U buồng trứng"
+      "Bệnh nguyên bào nuôi"
     "Giải phẫu"
-      "Female pelvis"
-      "Uterus and adnexa"
-      "Pelvic vessels"
-      "Pelvic nerves"
-      "Ureter and uterine artery"
-      "Peritoneal relations"
-      "Breast if included"
-    "Exam Skills"
-      "MCQ elimination"
-      "Short-answer structure"
-      "Clinical case reasoning"
-      "Emergency first step"
-      "Differential diagnosis"
-      "Time management"
-    "Study System"
-      "Daily loop"
-        "Mistake review"
-        "Core topic"
-        "Question drill"
-        "Correction"
-        "Flashcards"
-      "Weekly loop"
-        "Mixed mock"
-        "Correction day"
-        "Weak-topic repair"
-      "Mistake log"
-      "High-yield sheets"
-      "Final week mocks"
+      "Khung chậu nữ"
+      "Tử cung và phần phụ"
+      "Mạch máu vùng chậu"
+      "Thần kinh vùng chậu"
+      "Niệu quản và động mạch tử cung"
+      "Liên quan phúc mạc"
+      "Tuyến vú nếu đề cương yêu cầu"
+    "Kỹ năng làm bài"
+      "Loại trừ đáp án"
+      "Trả lời tự luận ngắn"
+      "Suy luận ca lâm sàng"
+      "Bước xử trí đầu tiên"
+      "Chẩn đoán phân biệt"
+      "Quản lý thời gian"
+    "Hệ thống học"
+      "Vòng học mỗi ngày"
+        "Ôn lỗi"
+        "Học chủ đề"
+        "Làm câu hỏi"
+        "Sửa lỗi"
+        "Flashcard"
+      "Vòng học mỗi tuần"
+        "Thi thử"
+        "Ngày sửa lỗi"
+        "Vá chủ đề yếu"
+      "Nhật ký câu sai"
+      "Tờ ôn trọng điểm"
+      "Thi thử tuần cuối"
 ```
 
-## Source-To-Knowledge Map
+## Bản đồ nguồn tài liệu
 
-| Knowledge Area | Primary Converted Sources |
+| Mảng kiến thức | Nguồn chính đã chuyển đổi |
 |---|---|
-| Sản cơ bản and broad MCQs | `converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md` |
-| Core Sản phụ khoa reading | `converted-md/san-phu-khoa/SPK cơ bản _1_.md` |
-| Disease and high-risk pregnancy | `converted-md/san-phu-khoa/SPK Bệnh _1_.md` |
-| PNT-style recent recall questions | `converted-md/san-phu-khoa/sản ck1 pnt 2026.md` |
-| Supporting obstetric reference | `converted-md/san-phu-khoa/Sản Huế.md` |
-| Anatomy recall | `converted-md/giai-phau/gp nhớ lại _1_.md` |
-| Anatomy MCQ drill | `converted-md/giai-phau/Trắc nghiệm Giải Phẫu - GS Nguyễn Quang Quyền.md` |
-| Official SPK outline | `converted-md/san-phu-khoa/Đề cương ôn thi ThS SPK.md`, needs OCR |
-| Official anatomy outline | `converted-md/giai-phau/De cuong on thi Giai phau.md`, needs OCR |
+| Sản cơ bản và câu hỏi rộng | `converted-md/san-phu-khoa/__PNT_ TN4000 câu Sản Cơ bản.md` |
+| Lý thuyết Sản phụ khoa nền tảng | `converted-md/san-phu-khoa/SPK cơ bản _1_.md` |
+| Bệnh học và thai kỳ nguy cơ cao | `converted-md/san-phu-khoa/SPK Bệnh _1_.md` |
+| Câu hỏi nhớ lại/PNT gần đây | `converted-md/san-phu-khoa/sản ck1 pnt 2026.md` |
+| Tài liệu Sản tham khảo | `converted-md/san-phu-khoa/Sản Huế.md` |
+| Giải phẫu nhớ lại | `converted-md/giai-phau/gp nhớ lại _1_.md` |
+| Trắc nghiệm Giải phẫu | `converted-md/giai-phau/Trắc nghiệm Giải Phẫu - GS Nguyễn Quang Quyền.md` |
+| Đề cương SPK chính thức | `converted-md/san-phu-khoa/Đề cương ôn thi ThS SPK.md`, cần OCR |
+| Đề cương Giải phẫu | `converted-md/giai-phau/De cuong on thi Giai phau.md`, cần OCR |
 
-## How an AI Teacher Should Use This Mind Map
+## Cách AI giáo viên dùng sơ đồ này
 
-- Start from the learner's weakest branch.
-- Teach one branch at a time.
-- Always connect a diagnosis to: definition, symptoms, tests, differential diagnosis, treatment principle, and emergency red flags.
-- For every wrong MCQ, attach it to one branch in this mind map.
-- In the final week, study only branches with repeated mistakes or official-outline priority.
+- Bắt đầu từ nhánh yếu nhất của người học.
+- Mỗi buổi chỉ dạy một nhánh chính hoặc một nhánh con.
+- Mọi bệnh cần đi qua: định nghĩa, triệu chứng, cận lâm sàng, chẩn đoán phân biệt, nguyên tắc xử trí, dấu hiệu nguy hiểm.
+- Mỗi câu sai phải gắn vào một nhánh trong sơ đồ.
+- Tuần cuối chỉ ôn nhánh có lỗi lặp lại hoặc nhánh chắc chắn nằm trong đề cương chính thức.
