@@ -1,0 +1,8 @@
+*.zip
+*.tmp.md
+*.err.txt
+
+# Local source documents are intentionally kept out of the first GitHub import.
+# The portable AI-readable corpus lives in converted-md/.
+*.pdf
+*.pptx
