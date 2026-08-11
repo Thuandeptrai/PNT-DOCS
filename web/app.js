@@ -32,13 +32,13 @@ function renderList(target, items) {
   target.replaceChildren(...items.map(li));
 }
 
-function quizStorageKey() {
-  return "pnt-spk-day-01-diagnostic";
+function quizStorageKey(day = state.selectedDay) {
+  return `pnt-spk-day-${String(day).padStart(2, "0")}-quiz`;
 }
 
-function loadSavedQuiz() {
+function loadSavedQuiz(day = state.selectedDay) {
   try {
-    return JSON.parse(localStorage.getItem(quizStorageKey()) || "{}");
+    return JSON.parse(localStorage.getItem(quizStorageKey(day)) || "{}");
   } catch {
     return {};
   }
@@ -48,7 +48,32 @@ function saveQuiz(payload) {
   localStorage.setItem(quizStorageKey(), JSON.stringify(payload));
 }
 
-function renderDay(dayNumber) {
+function quizPath(day) {
+  if (day === 1) return "./data/day-01-diagnostic.json";
+  return `./data/day-${String(day).padStart(2, "0")}-quiz.json`;
+}
+
+async function loadQuiz(day) {
+  els.quizQuestions.replaceChildren();
+  els.scoreBox.textContent = "";
+  els.quizMeta.textContent = "Đang tải quiz...";
+
+  const response = await fetch(quizPath(day));
+  if (!response.ok) {
+    state.quiz = null;
+    els.quizMeta.textContent = "Ngày này chưa có quiz tương tác.";
+    els.quizPanel.hidden = true;
+    renderProgress();
+    return;
+  }
+
+  state.quiz = await response.json();
+  els.quizPanel.hidden = false;
+  renderQuiz();
+  renderProgress();
+}
+
+async function renderDay(dayNumber) {
   const day = state.days.find((item) => item.day === dayNumber) || state.days[0];
   state.selectedDay = day.day;
 
@@ -60,23 +85,28 @@ function renderDay(dayNumber) {
   renderList(els.outputList, day.output);
   renderList(els.dailyQuestions, day.questions);
 
-  els.quizPanel.hidden = day.day !== 1;
-  renderProgress();
+  await loadQuiz(day.day);
 }
 
 function renderProgress() {
   const saved = loadSavedQuiz();
+  if (!state.quiz) {
+    els.progressBadge.textContent = "Không có quiz";
+    return;
+  }
   if (saved.score !== undefined) {
-    els.progressBadge.textContent = `Diagnostic: ${saved.score}/30`;
+    els.progressBadge.textContent = `Quiz: ${saved.score}/${state.quiz.questions.length}`;
+  } else if (state.selectedDay === 1) {
+    els.progressBadge.textContent = "Chưa làm diagnostic";
   } else {
-    els.progressBadge.textContent = state.selectedDay === 1 ? "Chưa làm diagnostic" : "Không có quiz tương tác";
+    els.progressBadge.textContent = "Chưa làm quiz ngày này";
   }
 }
 
 function renderQuiz() {
   if (!state.quiz) return;
 
-  els.quizMeta.textContent = `${state.quiz.title}. ${state.quiz.source_note}`;
+  els.quizMeta.textContent = `${state.quiz.title}. ${state.quiz.source_note || ""}`;
   const saved = loadSavedQuiz();
   const answers = saved.answers || {};
 
@@ -125,9 +155,7 @@ function collectAnswers() {
   const answers = {};
   state.quiz.questions.forEach((question) => {
     const checked = document.querySelector(`input[name="${question.id}"]:checked`);
-    if (checked) {
-      answers[question.id] = Number(checked.value);
-    }
+    if (checked) answers[question.id] = Number(checked.value);
   });
   return answers;
 }
@@ -146,6 +174,7 @@ function applyQuizResult(answers) {
 }
 
 function submitQuiz() {
+  if (!state.quiz) return;
   const answers = collectAnswers();
   const score = applyQuizResult(answers);
   saveQuiz({ answers, score, savedAt: new Date().toISOString() });
@@ -166,13 +195,8 @@ function resetQuiz() {
 }
 
 async function init() {
-  const [daysResponse, quizResponse] = await Promise.all([
-    fetch("../study-days/all-days.json"),
-    fetch("./data/day-01-diagnostic.json"),
-  ]);
-
+  const daysResponse = await fetch("../study-days/all-days.json");
   state.days = await daysResponse.json();
-  state.quiz = await quizResponse.json();
 
   state.days.forEach((day) => {
     const option = document.createElement("option");
@@ -181,14 +205,13 @@ async function init() {
     els.daySelect.appendChild(option);
   });
 
-  els.daySelect.addEventListener("change", (event) => {
-    renderDay(Number(event.target.value));
+  els.daySelect.addEventListener("change", async (event) => {
+    await renderDay(Number(event.target.value));
   });
   els.submitQuiz.addEventListener("click", submitQuiz);
   els.resetQuiz.addEventListener("click", resetQuiz);
 
-  renderDay(1);
-  renderQuiz();
+  await renderDay(1);
 }
 
 init().catch((error) => {

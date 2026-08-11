@@ -1,0 +1,111 @@
+{
+  "day": 27,
+  "title": "Quiz tương tác ngày 27 - Ôn Phụ khoa và Ung thư trọng điểm",
+  "source_note": "Quiz định hướng học tập được sinh từ study-days/all-days.json. Dùng để kiểm tra người học có nắm đúng mục tiêu, tài liệu và việc cần làm trong ngày.",
+  "questions": [
+    {
+      "id": "D27-Q01",
+      "topic": "Chủ đề",
+      "question": "Chủ đề chính của ngày 27 là gì?",
+      "choices": [
+        "Chu kỳ kinh nguyệt và xuất huyết tử cung bất thường",
+        "Sinh lý thai kỳ và chẩn đoán thai",
+        "Ôn Phụ khoa và Ung thư trọng điểm",
+        "Thiết lập hệ thống và chẩn đoán ban đầu"
+      ],
+      "answer": 2,
+      "explanation": "Chọn đúng chủ đề giúp người học không học lan man."
+    },
+    {
+      "id": "D27-Q02",
+      "topic": "Mục tiêu",
+      "question": "Mục tiêu học đầu tiên của ngày này là gì?",
+      "choices": [
+        "Đánh giá nền tảng Sản phụ khoa ban đầu",
+        "Xác định 3 chủ đề yếu nhất",
+        "Chỉ ôn Phụ khoa/Ung thư high-yield",
+        "Cách dùng kho tri thức, kế hoạch học, mind map và nhật ký câu sai"
+      ],
+      "answer": 2,
+      "explanation": "Mục tiêu đầu tiên là trọng tâm mở đầu của buổi học."
+    },
+    {
+      "id": "D27-Q03",
+      "topic": "Tài liệu",
+      "question": "Tài liệu nào nên được mở đầu tiên trong ngày này?",
+      "choices": [
+        "pnt-master-entrance-study-plan-san-phu-khoa.md",
+        "knowledge-mind-map-san-phu-khoa.md",
+        "converted-md/san-phu-khoa/SPK cơ bản _1_.md",
+        "pnt-master-entrance-ai-teacher-kb.md"
+      ],
+      "answer": 2,
+      "explanation": "Tài liệu đầu tiên trong data.json là nguồn ưu tiên cho ngày học đó."
+    },
+    {
+      "id": "D27-Q04",
+      "topic": "Bài tập",
+      "question": "Bài tập chính của ngày này là gì?",
+      "choices": [
+        "Làm 30 câu về sinh lý kinh, AUB và nội tiết phụ khoa.",
+        "Làm 30 câu về sinh lý thai kỳ và chẩn đoán thai.",
+        "80 câu Phụ khoa/Ung thư.",
+        "Làm 30 câu diagnostic trộn từ TN4000; ghi mọi câu sai hoặc phân vân."
+      ],
+      "answer": 2,
+      "explanation": "Bài tập chính là phần bắt buộc sau khi đọc tài liệu và trả lời câu hỏi."
+    },
+    {
+      "id": "D27-Q05",
+      "topic": "Kết quả",
+      "question": "Kết quả đầu ra cần tạo sau buổi học là gì?",
+      "choices": [
+        "Đánh dấu nhánh yếu trong mind map",
+        "Tóm tắt PALM-COEIN 1 trang",
+        "Tờ ôn Phụ khoa/Ung thư cuối cùng",
+        "Tạo 10 dòng đầu tiên trong nhật ký câu sai"
+      ],
+      "answer": 2,
+      "explanation": "Mỗi ngày cần tạo một sản phẩm học tập cụ thể để theo dõi tiến bộ."
+    },
+    {
+      "id": "D27-Q06",
+      "topic": "Câu hỏi trọng tâm",
+      "question": "Câu hỏi nào nên được hỏi đầu tiên trong buổi học?",
+      "choices": [
+        "File nào là tài liệu học chính cho Sản phụ khoa?",
+        "File nào là ngân hàng câu hỏi chính?",
+        "Trình bày tiếp cận AUB.",
+        "Kỳ thi mục tiêu và chuyên ngành mục tiêu là gì?"
+      ],
+      "answer": 2,
+      "explanation": "Câu hỏi đầu tiên thường định hướng phần kiến thức cần kiểm tra trong ngày."
+    },
+    {
+      "id": "D27-Q07",
+      "topic": "Nhật ký câu sai",
+      "question": "Sau khi làm quiz hoặc câu hỏi trong ngày, việc nào là bắt buộc?",
+      "choices": [
+        "Chỉ đọc thêm chương mới, không sửa lỗi",
+        "Bỏ qua các câu đã đoán đúng",
+        "Ghi câu sai hoặc câu còn phân vân vào mistake log",
+        "Xóa toàn bộ câu sai để tránh áp lực"
+      ],
+      "answer": 2,
+      "explanation": "Nhật ký câu sai là công cụ quan trọng nhất để tránh lặp lại lỗi."
+    },
+    {
+      "id": "D27-Q08",
+      "topic": "Cách trả lời",
+      "question": "Khi trả lời một câu hỏi lâm sàng, cấu trúc nào nên được ưu tiên?",
+      "choices": [
+        "Chỉ học thuộc tên bệnh",
+        "Chỉ đọc giải thích sau khi làm sai",
+        "Chẩn đoán, dấu hiệu chính, cận lâm sàng, chẩn đoán phân biệt, xử trí đầu tiên, bẫy cần tránh",
+        "Chỉ chọn đáp án rồi chuyển câu khác"
+      ],
+      "answer": 2,
+      "explanation": "Cấu trúc trả lời giúp biến câu hỏi thành năng lực suy luận."
+    }
+  ]
+}
